@@ -78,6 +78,11 @@ export default function Footer() {
             <p className="text-xs tracking-[0.24em] uppercase text-ivory/70 font-semibold mb-6">Nyttige links</p>
             <ul className="space-y-3 text-sm">
               <li>
+                <a href="https://www.royalarena.dk" target="_blank" rel="noopener" className="text-ivory/80 hover:text-ivory transition-colors">
+                  Royal Arena ↗
+                </a>
+              </li>
+              <li>
                 <a href="https://www.fields.dk" target="_blank" rel="noopener" className="text-ivory/80 hover:text-ivory transition-colors">
                   Fields Shopping Center ↗
                 </a>
