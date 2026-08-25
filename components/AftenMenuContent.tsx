@@ -94,7 +94,7 @@ const categories: Category[] = [
     items: [
       { da: "Crème Brûlée", price: "75,-", desc: "Fløjlsblød vaniljecreme, sprød sukkerskorpe, friske bær", descEn: "Silky vanilla custard, crisp caramelised sugar crust, fresh berries" },
       { da: "Hvid Chokolade", en: "White Chocolate", price: "75,-", desc: "Hvid chokolade, cream cheese, digestive, friske bær", descEn: "White chocolate, cream cheese, digestive biscuit, fresh berries" },
-      { da: "Crepe Suzette", price: "75,-", desc: "Pandekager m. karamel, appelsinsauce, vaniljeis, ristede mandler", descEn: "Pancakes with caramel, orange sauce, vanilla ice cream, roasted almonds" },
+      { da: "Crepe Suzette", price: "95,-", desc: "Pandekager m. karamel, appelsinsauce, vaniljeis, ristede mandler", descEn: "Pancakes with caramel, orange sauce, vanilla ice cream, roasted almonds" },
     ],
   },
   {
