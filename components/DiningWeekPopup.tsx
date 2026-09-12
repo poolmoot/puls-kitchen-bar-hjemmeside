@@ -30,10 +30,10 @@ import { readConsent, CONSENT_EVENT } from "@/lib/consent";
  */
 const ENABLED = true;
 
-/* ⚠️ TESTPERIODE — popup'en er midlertidigt tændt NU, så den kan ses uden
-   ?dw=1. Sæt tilbage til de rigtige datoer inden siden går live:
-   START = 2026-10-09, END = 2026-10-19 */
-const START = new Date("2026-09-01T00:00:00+02:00");
+/* Popup'en er live NU — vi reklamerer for Dining Week før den starter,
+   ikke kun i selve ugen. Den lukker automatisk natten til den 19. oktober,
+   dagen efter Dining Week slutter. */
+const START = new Date("2026-09-12T00:00:00+02:00");
 const END = new Date("2026-10-19T00:00:00+02:00"); // eksklusiv — sidste dag er den 18.
 
 const DISMISS_KEY = "puls-diningweek-2026-dismissed-v2";
