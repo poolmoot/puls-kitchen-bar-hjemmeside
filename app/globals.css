@@ -205,6 +205,26 @@ body {
   color: var(--obsidian);
 }
 
+/* Større knap — til når en enkelt handling skal bære hele skærmen */
+.btn-lg {
+  padding: 1rem 1.75rem;
+  font-size: 0.9375rem;      /* 15px */
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
+/* Tynd, hævet ramme inde i knappen — et roligt, premium detalje-lag */
+.btn-ring {
+  position: relative;
+}
+.btn-ring::after {
+  content: "";
+  position: absolute;
+  inset: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  pointer-events: none;
+}
+
 /* Tailwind aliases still work → point to gold/ivory/dark */
 .btn-accent  { @apply btn-gold; }
 .btn-outline { @apply btn-ghost; }
