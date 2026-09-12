@@ -4,6 +4,7 @@ import Navigation from "@/components/Navigation";
 import TopBar from "@/components/TopBar";
 import Footer from "@/components/Footer";
 import CookieConsent from "@/components/CookieConsent";
+import DiningWeekPopup from "@/components/DiningWeekPopup";
 import Analytics from "@/components/Analytics";
 import { LanguageProvider } from "@/contexts/LanguageContext";
 import "./globals.css";
@@ -152,6 +153,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <main>{children}</main>
           <Footer />
           <CookieConsent />
+          <DiningWeekPopup />
           <Analytics />
         </LanguageProvider>
       </body>
