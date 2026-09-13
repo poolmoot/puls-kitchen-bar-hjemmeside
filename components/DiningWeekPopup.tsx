@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import Image from "next/image";
 import { motion, AnimatePresence } from "framer-motion";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { readConsent, CONSENT_EVENT } from "@/lib/consent";
@@ -153,30 +152,20 @@ export default function DiningWeekPopup() {
               animate={{ opacity: 1, y: 0, scale: 1 }}
               exit={{ opacity: 0, y: 8, scale: 0.98 }}
               transition={{ duration: 0.3, ease }}
-              className="w-full max-w-[400px] bg-ivory rounded-2xl shadow-2xl overflow-hidden"
+              className="relative w-full max-w-[400px] bg-ivory rounded-2xl shadow-2xl overflow-hidden"
               onClick={(e) => e.stopPropagation()}
             >
-              <div className="relative h-40 w-full">
-                <Image
-                  src="/images/aften-dish.jpg"
-                  alt=""
-                  fill
-                  className="object-cover"
-                  sizes="400px"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-obsidian/40 via-transparent to-transparent" />
-                <button
-                  onClick={close}
-                  aria-label={t.close}
-                  className="absolute top-3 right-3 flex h-8 w-8 items-center justify-center rounded-full bg-obsidian/40 text-ivory hover:bg-obsidian/70 transition-colors"
-                >
-                  <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
-                    <path d="M1 1L13 13M13 1L1 13" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
-                  </svg>
-                </button>
-              </div>
+              <button
+                onClick={close}
+                aria-label={t.close}
+                className="absolute top-3 right-3 flex h-8 w-8 items-center justify-center rounded-full bg-sand text-obsidian hover:bg-border-col transition-colors"
+              >
+                <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
+                  <path d="M1 1L13 13M13 1L1 13" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+                </svg>
+              </button>
 
-              <div className="px-6 py-7 text-center">
+              <div className="px-6 pt-8 pb-7 text-center">
                 <div className="flex items-center justify-center gap-3">
                   <span className="h-px w-9 bg-gold/60" />
                   <span className="text-sm font-semibold uppercase tracking-[0.22em] text-gold">
