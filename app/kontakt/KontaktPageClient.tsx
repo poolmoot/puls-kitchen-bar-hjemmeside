@@ -102,7 +102,7 @@ export default function KontaktPageClient() {
                     ["Instagram", "https://www.instagram.com/pulskitchenbar/"],
                     ["Facebook",  "https://www.facebook.com/pulskitchenbar"],
                     ["TripAdvisor", "https://www.tripadvisor.dk/Restaurant_Review-g189541-d23380540-Reviews-Puls_Kitchen_Bar-Copenhagen_Zealand.html"],
-                    [t.giftCards, "https://order.lifepeaks.dk/puls"],
+                    [t.giftCards, "https://live.tebi.co/ecom/giftcards/682104_25db7b16c3fd8c64ef98da76236d2bda2da9ffc9d6bbb771830f80fbd270f9d4"],
                   ].map(([label, href]) => (
                     <a key={label} href={href} target="_blank" rel="noopener" className="text-sm font-semibold text-obsidian/70 hover:text-gold transition-colors">
                       {label} ↗

@@ -48,7 +48,7 @@ export default function GavekortPage() {
                 Et gavekort til PULS Kitchen & Bar er en gave der huskes. Perfekt til fødselsdage, jubilæer — eller bare fordi.
               </p>
               <a
-                href="https://order.lifepeaks.dk/puls"
+                href="https://live.tebi.co/ecom/giftcards/682104_25db7b16c3fd8c64ef98da76236d2bda2da9ffc9d6bbb771830f80fbd270f9d4"
                 target="_blank"
                 rel="noopener"
                 className="btn-sage-solid inline-flex"
@@ -106,7 +106,7 @@ export default function GavekortPage() {
                   Gavekortet købes online og sendes direkte til modtageren — eller til dig selv, så du kan give det personligt. Gyldig til mad, drinks og oplevelser hos PULS.
                 </p>
                 <a
-                  href="https://order.lifepeaks.dk/puls"
+                  href="https://live.tebi.co/ecom/giftcards/682104_25db7b16c3fd8c64ef98da76236d2bda2da9ffc9d6bbb771830f80fbd270f9d4"
                   target="_blank"
                   rel="noopener"
                   className="btn-sage-solid w-full justify-center"
