@@ -15,6 +15,207 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: "restaurant-i-kobenhavn-sadan-vaelger-du-sted-til-frokost-middag-eller-cocktails",
+    title: "Restaurant i København: sådan vælger du sted til frokost, middag eller cocktails",
+    seoTitle: "Restaurant i København: vælg sted til frokost og middag",
+    seoDescription:
+      "Sådan vælger du restaurant i København til frokost, middag eller cocktails, med PULS Kitchen & Bar i Ørestad som konkret eksempel.",
+    excerpt:
+      "Sådan vælger du restaurant i København til frokost, middag eller cocktails, med PULS Kitchen & Bar i Ørestad som konkret eksempel.",
+    date: "2026-10-23",
+    tags: ["restaurant København", "guide til restaurant", "Ørestad spisesteder", "moderne bistro"],
+    authorName: "Puls",
+    authorTitle: "head of conent",
+    coverImage:
+      "/images/blog/restaurant-i-kobenhavn-sadan-vaelger-du-sted-til-frokost-middag-eller-cocktails.webp",
+    coverImageAlt: "Restaurant i København: sådan vælger du sted til frokost, middag eller cocktails",
+    body: `København har flere restauranter end nogen anden by i Danmark, så udvalget er stort, og valget kan føles uoverskueligt. Denne guide giver dig nogle enkle spørgsmål at stille, før du vælger sted til frokost, middag eller cocktails. Bagefter ser vi nærmere på ét konkret eksempel: PULS Kitchen & Bar i Ørestad, med åbningstider, menuer, booking og selskaber, som de står på restaurantens egen hjemmeside.
+
+## Hvordan vælger du en restaurant i København?
+
+Start med anledningen: Er det en hurtig frokost, en middag med venner eller en aften med cocktails? Derefter afgør beliggenhed, menu, pris og plads, hvilke steder der kommer i betragtning. Ifølge Restaurant.dk (2023) har København flere restauranter end nogen anden by i landet, så det kan betale sig at indsnævre med faste kriterier.
+
+### Hvad skal du overveje, før du vælger?
+
+- Beliggenhed: vælg et sted tæt på din aktivitet, for eksempel Royal Arena eller Bella Center, hvis du skal til koncert eller konference.
+- Menu: tjek, om der er brunch, frokost, middag eller en særlig menu til netop din anledning.
+- Pris: sammenlign menuens priser med dit budget, og husk, at drikkevarer ofte kommer oveni.
+- Plads: ved grupper bør du kontakte restauranten på forhånd, og ved større arrangementer bør du booke i god tid.
+- Åbningstider: tjek både restaurantens og køkkenets lukketid, især hvis du skal spise efter en koncert eller et event.
+- Særlige behov: spørg personalet, hvis du har allergier eller ønsker vegetariske retter.
+
+Prisniveauet varierer meget. Grå Hund Bus (2026) skriver i sin prisguide, at budgetrestauranter i Danmark ligger på 150-250 kroner per person til middag, at mellemklassen ligger på 300-450 kroner, og at fine dining starter ved 600 kroner uden drikkevarer. Brug tallene som en pejling, og slå altid den konkrete menu op, før du booker.
+
+## Hvad kendetegner PULS Kitchen & Bar?
+
+PULS Kitchen & Bar er en moderne bistro og gastrobar i Ørestad. På hjemmesiden beskriver restauranten sig med ordene "New Yorker Rawness with Parisian elegance". Stedet serverer brunch, frokost og middag og har en bar med cocktails, vin og øl.
+
+### Hvad er de vigtigste fakta om PULS?
+
+- Beliggenhed: ved vandet i Ørestad, på Arne Jacobsens Allé 9, 2300 København S.
+- Plads: 140 gæster indendørs og 150 på den store træterrasse.
+- Mad og drikke: brunch, frokost, aftenkort og en bar med signature cocktails, klassiske drinks, vin og øl.
+- Koncert- og konferencemenu på udvalgte dage.
+- Selskaber for 30, 50 eller op til 150 gæster.
+- Gavekort, som kan købes online.
+
+Restauranten ligger i gåafstand til Royal Arena, Fields og Cabinn Metro Hotel, så den bruges både af dem, der skal til koncert eller konference, og af dem, der bare vil ud at spise.
+
+## Hvilke retter kan du få hos PULS Kitchen & Bar?
+
+Menuen på pulskitchen.dk er delt i brunch, frokost, aften og drinks. Her er et overblik over, hvad hvert kort indeholder. Priserne er hentet fra hjemmesiden den 22. oktober 2026 og kan ændre sig.
+
+### 1. Start dagen med brunch.
+
+På hverdage kl. 11-14 serverer PULS en byg-selv-brunch. Lørdag og søndag kl. 10-14 er brunchen ad libitum for 195 kr. inklusive kaffe, juice og vand. Du starter med fem retter og vælger derefter en ret ad gangen fra kategorier som Bakery, Meat & Fish, Eggs, Dairy og Sweet Tooth. Børn under 12 år betaler halv pris, og børn under 3 år spiser gratis.
+
+### 2. Nyd en frokost.
+
+Frokostkortet gælder mandag til fredag fra kl. 11.00 og lørdag og søndag fra kl. 10.00, alle dage til kl. 16.00. Det rummer blandt andet Puls Burger (145 kr.), Fish N' Chips (155 kr.), Chèvre Chaud-salat (145 kr.) og smørrebrød fra 85 kr. for ét stykke. Smørrebrødet serveres til kl. 15.00.
+
+### 3. Vælg noget fra aftenkortet.
+
+Aftenkortet gælder fra kl. 16.00. Her finder du blandt andet Ribeye med pommes frites og bearnaise (325 kr.), Braiseret Okse (235 kr.), Pasta Trøffel med linguine, svampe og cremet trøffelsauce (165 kr.) og Ravioli med ricotta og spinat (165 kr.). Tilkøb af grillet kyllingebryst til pastaen koster 30 kr.
+
+### 4. Slut af med dessert.
+
+På dessertkortet står Crème Brûlée (75 kr.), som restauranten beskriver som vaniljecreme med sprød sukkerskorpe og friske bær, White Chocolate (75 kr.) og Crêpe Suzette (95 kr.).
+
+### 5. Se, hvad baren byder på.
+
+Baren serverer signature cocktails, klassiske drinks, et udvalg af vine og kolde øl. Af priser på drinkskortet kan nævnes Aperol Spritz til 95 kr. og Gin & Tonic til 115 kr. Der er happy hour torsdag kl. 17-20, men hjemmesiden oplyser ikke, hvilke drikke der er på tilbud, så spørg i baren.
+
+## Hvordan booker du bord hos PULS Kitchen & Bar?
+
+Du kan booke bord online via restaurantens hjemmeside eller ved at ringe på +45 3262 6030. Grupper på mere end 8 personer bør ringe eller booke i forvejen, så restauranten kan sikre, at der er plads.
+
+### 1. Book online via hjemmesiden.
+
+Klik på "Reservation" på pulskitchen.dk, hvor bookingen foregår i et online reservationssystem. Her vælger du dato og tid og bekræfter din reservation.
+
+### 2. Kontakt restauranten telefonisk.
+
+Foretrækker du at tale med nogen, kan du ringe til PULS Kitchen & Bar på +45 3262 6030 eller skrive til info@pulskitchen.dk.
+
+### 3. Reserver til større grupper.
+
+Skal I være mere end 8 personer, bør du kontakte restauranten direkte eller reservere i forvejen.
+
+### 4. Send en forespørgsel om selskab eller event.
+
+Til selskaber sender du dato, antal gæster og anledning. Restauranten skriver på sin selskabsside, at den vender tilbage med et tilbud inden for 24 timer.
+
+## Hvad er åbningstiderne hos PULS Kitchen & Bar?
+
+Restauranten har åbent hver dag, men tiderne varierer, og køkkenet lukker før selve restauranten. Tiderne herunder er hentet fra kontaktsiden på pulskitchen.dk.
+
+### 1. Mandag til torsdag.
+
+Restauranten er åben kl. 11.00-22.00. Køkkenet lukker kl. 21.45.
+
+### 2. Fredag.
+
+Restauranten er åben kl. 11.00-24.00. Køkkenet lukker kl. 22.00.
+
+### 3. Lørdag.
+
+Restauranten er åben kl. 10.00-24.00. Køkkenet lukker kl. 22.00.
+
+### 4. Søndag.
+
+Restauranten er åben kl. 10.00-22.00. Køkkenet lukker kl. 21.00.
+
+Husk, at køkkenet lukker før restauranten: 15 minutter før mandag til torsdag, 2 timer før fredag og lørdag og 1 time før søndag. Bestil din mad i god tid.
+
+## Kan PULS Kitchen & Bar bruges til private arrangementer?
+
+Ja, restauranten har en selskabsside, hvor man kan forespørge om selskaber og private arrangementer. Man kan vælge mellem et lille lokale, et stort lokale eller hele restauranten, som rummer op til 150 gæster.
+
+### 1. Vælg det rigtige rum.
+
+PULS har tre muligheder: et lille lokale til op til 30 gæster, et stort lokale til op til 50 gæster og hele restauranten til op til 150 gæster. Ifølge selskabssiden følger der i alle tre tilfælde AV-udstyr og et eget serveringsteam med.
+
+### 2. Tilpas menuen.
+
+Menuen tilpasses anledning og budget, fra en 3-retters middag til buffet.
+
+### 3. Vælg drikkevarer.
+
+Vin, fadøl, cocktails og alkoholfrie drikke kan bestilles som en pakke eller som løbende regning fra baren.
+
+### 4. Planlæg opsætning og AV.
+
+Lyd, projektor og skærm er med i de to lokaler og i hele restauranten og kan bruges til præsentationer og taler. Bordopstilling, for eksempel reception, teater eller runde borde, aftales med restauranten.
+
+Kontakt PULS Kitchen & Bar direkte på info@pulskitchen.dk eller +45 3262 6030 for at få et tilbud og sikre, at dit ønskede tidspunkt er ledigt.
+
+## Hvor ligger PULS Kitchen & Bar?
+
+PULS Kitchen & Bar ligger ved vandet i Ørestad på Arne Jacobsens Allé 9, 2300 København S, 500 m fra Royal Arena og 600 m fra Bella Center.
+
+### Hvad er de vigtigste oplysninger om adressen?
+
+- Adresse: Arne Jacobsens Allé 9, 2300 København S.
+- 500 m fra Royal Arena og 600 m fra Bella Center.
+- I nærheden af Fields og Cabinn Metro Hotel.
+- 5 minutter fra Metro Ørestad.
+- Parkering direkte ved restauranten, ifølge restaurantens selskabsside.
+
+Restauranten tilbyder også take away via Wolt.
+
+## Hvilke specielle tilbud har PULS Kitchen & Bar?
+
+Restauranten har happy hour om torsdagen, en koncert- og konferencemenu på udvalgte dage og gavekort, som kan købes online.
+
+### Hvilke tilbud findes der?
+
+- Happy hour hver torsdag kl. 17.00-20.00.
+- Koncert- og konferencemenu, som kun serveres på udvalgte koncert- og konferencedage.
+- Ad libitum-brunch lørdag og søndag for 195 kr.
+- Gavekort, hvor du selv vælger beløbet.
+- Skræddersyede menuer til private arrangementer.
+
+Koncert- og konferencemenuen indeholder blandt andet Ribeye Steak (325 kr.) og Fish N' Chips (175 kr.). Under "Kokken Anbefaler" står en Ribeye Steak med Crème Brûlée til en samlet pris på 375 kr. Restauranten anbefaler at møde op 1,5-2 timer før koncerten og at booke på forhånd.
+
+Gavekortet købes på hjemmesiden og leveres digitalt på mail, enten direkte til modtageren eller til dig selv. Du vælger selv beløbet, og ifølge siden har kortet ingen udløbsdato og kan bruges til mad og drikke hos PULS.
+
+## FAQ
+
+### Hvordan reserverer jeg bord hos PULS Kitchen & Bar?
+
+Du kan reservere bord online via hjemmesiden eller ved at ringe til +45 3262 6030. Grupper på mere end 8 personer bør kontakte restauranten direkte eller reservere i forvejen.
+
+### Hvad er PULS Kitchen & Bars specialmenuer?
+
+Restauranten har en koncert- og konferencemenu, som kun serveres på udvalgte dage, og en ad libitum-brunch lørdag og søndag for 195 kr. inklusive kaffe, juice og vand.
+
+### Tilbyder PULS Kitchen & Bar private arrangementer?
+
+Ja, restauranten tilbyder selskaber med skræddersyede menuer og AV-udstyr i et lille lokale til op til 30 gæster, et stort lokale til op til 50 gæster eller hele restauranten til op til 150 gæster.
+
+### Hvilke drikkevarer serverer PULS Kitchen & Bar?
+
+Baren serverer signature cocktails, klassiske drinks, vin og kolde øl. Der er happy hour hver torsdag kl. 17.00-20.00.
+
+### Hvor ligger PULS Kitchen & Bar?
+
+Restauranten ligger ved vandet i Ørestad på Arne Jacobsens Allé 9, 2300 København S, 500 m fra Royal Arena og 600 m fra Bella Center.
+
+### Hvad er åbningstiderne hos PULS Kitchen & Bar?
+
+Restauranten er åben mandag til torsdag kl. 11.00-22.00, fredag kl. 11.00-24.00, lørdag kl. 10.00-24.00 og søndag kl. 10.00-22.00. Køkkenet lukker kl. 21.45 mandag til torsdag, kl. 22.00 fredag og lørdag og kl. 21.00 søndag.
+
+## Hvad er kilderne?
+
+Artiklen bygger på restaurantens egen hjemmeside og to offentlige kilder, alle læst den 22. oktober 2026.
+
+### Hvilke kilder er brugt?
+
+- Restaurant.dk (2023): https://restaurant.dk/nyheder/danmark/hovedstaden/koebenhavn/koebenhavn-har-flest-restauranter-i-danmark/
+- Grå Hund Bus (2026): https://graahundbus.dk/hvad-koster-en-middag-ude-i-danmark-prisguide-til-spisesteder-i-alle-kategorier/
+- PULS Kitchen & Bar: https://pulskitchen.dk`
+  },
+  {
     slug: "aktuel-brunch-i-kobenhavn-guide-til-menuen",
     title: "Aktuel brunch i København: Guide til menuen",
     seoTitle: "Aktuel brunch i København: Guide til menuen",
