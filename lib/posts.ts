@@ -96,7 +96,7 @@ Desserterne på menukortet er Crème Brûlée (75 kr.), som restauranten beskriv
 
 ### 5. Se, hvad baren byder på.
 
-Drikkekortet kalder sig "Klassiske cocktails og signaturdrinks" og har også vin og øl. Af priser kan nævnes Aperol Spritz til 95 kr. og Gin & Tonic til 115 kr. Drikkekortet skriver "Happy Hour tors. kl. 17-20" under cocktails, men oplyser ikke, hvilke drikke det gælder, så spørg i baren.
+Drikkekortet kalder sig "Klassiske cocktails og signaturdrinks" og har også vin og øl. Af priser kan nævnes Aperol Spritz til 95 kr. og Gin & Tonic til 115 kr. Drikkekortet skriver "Happy Hour tors. kl. 17-20" under cocktails.
 
 ### Hvad står der ellers på frokost- og aftenkortet?
 
@@ -259,7 +259,7 @@ Artiklen bygger på restaurantens egen hjemmeside og to offentlige kilder, alle 
     coverImage:
       "/images/blog/aktuel-brunch-i-kobenhavn-guide-til-menuen.webp",
     coverImageAlt: "Brunch i København: sådan vurderer du en brunchmenu",
-    body: `Brunch kan være alt fra en hurtig bakke med croissant og kaffe til en lang weekenddag ved et stort brunchbord. Menuerne ser forskellige ud fra sted til sted, og det er ikke altid nemt at se på forhånd, hvad man får for pengene. Denne guide giver dig en praktisk fremgangsmåde til at læse en brunchmenu i København: hvad du skal spørge om, hvad du kan se efter, og hvordan du sammenligner formater som à la carte, byg-selv og ad libitum. Som konkret eksempel bruger vi brunchen på PULS Kitchen & Bar i Ørestad, hvor priser, tider og retter kan læses direkte på stedets egen hjemmeside.
+    body: `Brunch kan være alt fra en hurtig bakke med croissant og kaffe til en lang weekenddag ved et stort brunchbord. Menuerne ser forskellige ud fra sted til sted, og det er ikke altid nemt at se på forhånd, hvad man får for pengene. Denne guide giver dig en praktisk fremgangsmåde til at læse en brunchmenu i København: hvad du kan se efter, og hvordan du sammenligner formater som à la carte, byg-selv og ad libitum. Som konkret eksempel bruger vi brunchen på PULS Kitchen & Bar i Ørestad, hvor priser, tider og retter kan læses direkte på stedets egen hjemmeside.
 
 ## Hvad gør en brunchmenu tidssvarende?
 
@@ -270,7 +270,7 @@ En brunchmenu, der føles tidssvarende, bruger råvarer, som passer til årstide
 - Retter, hvor sæsonens råvarer er nævnt ved navn, for eksempel asparges om foråret, jordbær om sommeren eller græskar om efteråret.
 - Et tydeligt format: får du retter serveret, vælger du selv fra et bord, eller er der ad libitum?
 - Klar prisangivelse, så du kan se, om drikkevarer er med eller kommer oveni.
-- Oplysninger om allergener og kostønsker, eller en tydelig henvisning til, at du kan spørge personalet.
+- Oplysninger om allergener og kostønsker.
 - Åbningstider for selve brunchen, som ofte er kortere end restaurantens øvrige åbningstider.
 
 ### Hvordan bruger du sæsonens råvarer som rettesnor?
@@ -285,9 +285,9 @@ Sæsonen behøver ikke betyde helt nye retter. Den kan lige så godt vise sig i 
 
 ### 3. Spørg, hvis menuen er upræcis
 
-Står der blot frisk frugt eller årstidens grønt, kan du spørge personalet, hvad det er i dag. Et sted, der kender sin menu, svarer som regel uden tøven, og svaret fortæller dig, om du får det, du håber på.
+Står der blot frisk frugt eller årstidens grønt, er det et tegn på, at menuen følger det, der er i sæson, og at detaljerne skifter. Hos PULS Kitchen & Bar står der for eksempel Årstidens frugt på brunchmenuen, ved siden af Skyr med skovbær, granola & sirup.
 
-Tip: Står der ikke, hvilke råvarer en ret indeholder, så spørg. Det koster ikke noget, og du undgår at bestille noget, du ikke bryder dig om.
+Tip: Vælg gerne retter, hvor råvarerne er nævnt, for eksempel "Skyr med skovbær, granola & sirup". Så ved du på forhånd, hvad du får.
 
 ## Hvordan vælger du et brunchsted i København?
 
@@ -319,7 +319,7 @@ Tip: Lad ikke én enkelt negativ anmeldelse afgøre dit valg. Se på helhedsbill
 
 ## Hvordan fungerer brunch på PULS Kitchen & Bar i Ørestad?
 
-På PULS Kitchen & Bar sammensætter du selv din brunch fra et brunchbord. Om hverdagen er det en byg-selv-brunch, og i weekenden er det byg-selv ad libitum. PULS beskriver sig selv på sin hjemmeside som Ørestads moderne bistro, og stedet ligger på Arne Jacobsens Allé 9, 2300 København S, i gåafstand fra Royal Arena, Fields og Cabinn Metro Hotel og 5 minutter fra Metro Ørestad. Oplysningerne i dette afsnit er læst på stedets egne sider, pulskitchen.dk/brunch og pulskitchen.dk/menu.
+På PULS Kitchen & Bar sammensætter du selv din brunch fra et brunchbord. Om hverdagen er det en byg-selv-brunch, og i weekenden er det byg-selv ad libitum. PULS beskriver sig selv på sin hjemmeside som "Ørestads moderne bistro, det sted du vender tilbage til: brunch om lørdagen, frokost på en travl hverdag eller aftensmad inden en koncert i Royal Arena." Stedet ligger på Arne Jacobsens Allé 9, 2300 København S, i gåafstand fra Royal Arena, Fields og Cabinn Metro Hotel og 5 minutter fra Metro Ørestad. Oplysningerne i dette afsnit er læst på stedets egne sider, pulskitchen.dk/brunch og pulskitchen.dk/menu.
 
 ### Hvad koster og hvornår serveres brunchen?
 
@@ -327,17 +327,17 @@ På PULS Kitchen & Bar sammensætter du selv din brunch fra et brunchbord. Om hv
 - Weekend, lørdag og søndag 10.00-14.00: byg-selv ad libitum til 195 kr pr. person.
 - Børn under 12 betaler halv pris, og børn under 3 spiser gratis.
 
-Ifølge brunchsiden er kaffe, te, juice og hjemmelavet lemonade inkluderet i weekendprisen. Menukortet nævner derimod kaffe, juice og vand. Forskellen er værd at kende: spørg ved bookingen, præcis hvilke drikkevarer der er med. For hverdagsbrunchen nævner siden ikke, om drikkevarer er inkluderet.
+Til weekendprisen på 195 kr hører drikkevarer: ifølge brunchsiden kaffe, te, juice og hjemmelavet lemonade, og menukortet nævner kaffe, juice og vand.
 
 ### Hvilke retter står der på brunchbordet?
 
 Brunchsiden viser et udvalg af klassikere og friske råvarer, blandt andet croissanter, røræg og bacon, laksemousse, udvalgte oste, avocado, frisk frugt og pandekager. På menukortet er retterne delt op i grupper: Bakt, Kød & Fisk, Fry Me, Frugt & Grønt, Æg, Fra Mejeriet og Den Søde Tand. Her kan du blandt andet læse om Friskbagt smørcroissant, Laksemousse & urter, Røræg & grønt, Skyr med skovbær, granola & sirup og Pandekager med sirup & syltede skovbær. Under Den Søde Tand står også Gammeldags æblekage med makroner, flødeskum & friske bær. Menukortet beskriver ad libitum-brunchen sådan, at du starter med 5 retter og derefter vælger 1 ret ad gangen.
 
-Menuen kan ændre sig, så brug de to sider som udgangspunkt og tjek dem igen, før du reserverer. Du kan booke via knappen Book brunch på pulskitchen.dk/brunch, ringe på telefon +45 3262 6030 eller skrive til info@pulskitchen.dk.
+Menuen kan ændre sig, så brug de to sider som udgangspunkt og tjek dem, før du reserverer. Du booker bord via knappen Book brunch på pulskitchen.dk/brunch.
 
 ### Hvad hvis du spiser vegetarisk eller vegansk?
 
-Hverken brunchsiden eller menukortet mærker retter som vegetariske eller veganske, og menukortet henviser spørgsmål om allergener til personalet. Hvis du har særlige kostønsker, bør du derfor kontakte PULS, før du booker, og høre, hvilke retter på brunchbordet der passer til dig.
+Brunchmenuen har mange retter at vælge imellem. I gruppen Frugt & Grønt står Middelhavsoliven, Klassisk græsk salat, Avocado med sesam, ristede mandler & urter og Årstidens frugt, og under Fra Mejeriet finder du Skyr med skovbær, granola & sirup samt Brie, emmentaler & feta m. peberfrugt & kompot. På koncertsiden skriver PULS: "Vi tilbyder altid vegetariske alternativer."
 
 ### Hvad hvis I er mange?
 
@@ -365,7 +365,7 @@ Frisk frugt, avocado eller en salat giver en lettere kontrast til resten af tall
 
 ## Hvordan vurderer du kvaliteten af en brunchmenu?
 
-Du kan vurdere en brunchmenu ud fra, hvor tydelig den er, hvor godt retterne hænger sammen, og hvordan servicen er. Kvalitet er delvist en smagssag, men du kan se på konkrete ting: er der nævnt, hvad retterne indeholder, er der en rimelig balance mellem salt og sødt, og kan personalet svare på spørgsmål om menuen?
+Du kan vurdere en brunchmenu ud fra, hvor tydelig den er, hvor godt retterne hænger sammen, og hvordan servicen er. Kvalitet er delvist en smagssag, men du kan se på konkrete ting: er der nævnt, hvad retterne indeholder, er der en rimelig balance mellem salt og sødt, og føles servicen imødekommende?
 
 ### 1. Tjek, hvor konkret menuen er
 
@@ -381,7 +381,7 @@ En god sammensætning har både noget varmt og noget koldt, noget cremet og noge
 
 ### 4. Læg mærke til servicen
 
-Se, hvordan personalet håndterer spørgsmål om allergener og kostønsker. Hvis de kan svare klart, er det et godt tegn på, at køkkenet kender sine retter. Hvis de er usikre, så sig det og bed om at få spørgsmålet afklaret, før du bestiller.
+Læg mærke til, om personalet tager imod dig med overblik, og om de er opmærksomme ved bordet. Det er ofte et godt tegn på, at køkkenet og serveringen kender deres retter.
 
 ## Hvorfor er drikkevarer vigtige for brunchoplevelsen?
 
@@ -389,19 +389,19 @@ Drikkevarer er en stor del af brunchen, både for smagen og for prisen. Kaffe, t
 
 ### 1. Tjek, hvad der er inkluderet
 
-Nogle brunchformater har kaffe, te og juice med i prisen, andre sælger dem separat. På PULS er drikkevarer ifølge brunchsiden med i weekendprisen, men hvilke der er med, står lidt forskelligt på de to sider, så spørg ved bookingen.
+Nogle brunchformater har kaffe, te og juice med i prisen, andre sælger dem separat. På PULS er drikkevarer med i weekendprisen: ifølge brunchsiden kaffe, te, juice og hjemmelavet lemonade.
 
 ### 2. Vælg kaffe efter smag
 
-Hvis kaffen er vigtig for dig, så spørg, hvilken slags kaffe der serveres, og om der er mulighed for for eksempel kaffe med mælk eller en plantebaseret drik. Menuen siger ikke altid noget om det. På PULS' drikkekort står der Lavazza over de varme drikke.
+Hvis kaffen er vigtig for dig, så se efter, om stedet fortæller, hvilken slags kaffe der serveres. På PULS' drikkekort står der Lavazza over de varme drikke, fra Americano, Caffé Latte og Cappuccino til Espresso, Macchiato og Cortado.
 
 ### 3. Spørg til juice og te
 
-Hvis du vil have noget alkoholfrit ud over kaffe, så spørg til udvalget af juice, te og andre drikke, før du bestiller. På PULS' drikkekort står friskpresset juice til 55 kr. (Orange Juice, Pineapple Express, Mango Mama og Ginger/Orange), men menuen siger ikke, hvilken juice der er med i brunchprisen, så spørg ved bookingen.
+Hvis du vil have noget alkoholfrit ud over kaffe, så kig på drikkekortets udvalg af juice, te og andre drikke. På PULS' drikkekort står friskpresset juice til 55 kr. (Orange Juice, Pineapple Express, Mango Mama og Ginger/Orange). Pineapple Express er lavet på ananas, mynte, lime og æble, og Mango Mama på mango, hindbær, appelsin og æble.
 
 ### 4. Vælg alkohol med omtanke
 
-Vil du have et glas til brunchen, så se på stedets drikkekort og spørg, hvad der er med i brunchprisen. På PULS' drikkekort står for eksempel Aperol Spritz til 95 kr. Vælg efter din egen smag og dine planer for resten af dagen.
+Vil du have et glas til brunchen, så se på stedets drikkekort. På PULS' drikkekort står for eksempel Aperol Spritz til 95 kr., lavet på aperol, prosecco, danskvand og appelsin. Vælg efter din egen smag og dine planer for resten af dagen.
 
 ## Hvordan påvirker sæsonen brunchmenuer?
 
@@ -417,7 +417,7 @@ Om sommeren er bær som jordbær og hindbær typiske at se til pandekager, skyr 
 
 ### 3. Efterår: græskar og nødder
 
-Om efteråret kan græskar og nødder dukke op i supper, salater og bagværk. Spørg, hvis det ikke står på menuen.
+Om efteråret kan græskar og nødder dukke op i supper, salater og bagværk. På PULS' frokost- og aftenmenu har salaten Chèvre Chaud for eksempel syltede græskar og honning ristede valnødder.
 
 ### 4. Vinter: varme retter
 
@@ -425,29 +425,29 @@ Når det er koldt, kan du lede efter varme retter som grød, supper eller bagte 
 
 ## Hvad skal du kigge efter i vegetariske og veganske brunchmuligheder?
 
-Hvis du spiser vegetarisk eller vegansk, så se først efter, om menuen har tydelig mærkning, og spørg ellers personalet. Mærkning er ikke altid en selvfølge på et brunchbord, og indholdet af en ret kan være svært at se på forhånd. Derfor er den sikreste vej at spørge direkte om ingredienser, og at gøre det, før du bestiller.
+Hvis du spiser vegetarisk eller vegansk, så se efter, om menuen har tydelig mærkning, og læs retternes beskrivelser. Indholdet af en ret kan være svært at se på et brunchbord, og derfor er det en hjælp, når menuen skriver ingredienserne ved retten.
 
 ### 1. Se efter mærkning
 
-Nogle menuer markerer vegetariske og veganske retter med symboler eller tekst. Hvis ingen retter er mærket, kan det betyde, at stedet ikke har valgt at mærke dem, ikke nødvendigvis at der ikke findes noget. Spørg.
+Nogle menuer markerer vegetariske og veganske retter med symboler eller tekst. Er der ingen mærkning, så læs beskrivelserne: en ret, der er skrevet med sine ingredienser, er nemmere at vælge.
 
 ### 2. Spørg om skjulte ingredienser
 
-Bacon i en salat, fisk i en creme eller smør i brødet er eksempler på ting, som ikke altid står på menuen. Spørg ind til de retter, du overvejer.
+Bacon i en salat, fisk i en creme eller smør i brødet er eksempler på ting, man let overser. Læs derfor hele beskrivelsen af de retter, du overvejer. På PULS' brunchmenu står ingredienserne ved retterne, for eksempel "Ristede oksepølser med syltede rødløg & grøn mayo".
 
 ### 3. Tænk klassiske retter med plantebaserede alternativer
 
-Hvis du er vegansk, kan du spørge, om stedet kan servere et alternativ til æg, mælk eller smør. Svaret afhænger af køkkenet, og det er bedst at spørge på forhånd.
+Hvis du er vegansk, så kig først i grupperne med frugt og grønt, og sæt din tallerken sammen ud fra beskrivelserne. På PULS' brunchmenu har gruppen Frugt & Grønt blandt andet Middelhavsoliven, Klassisk græsk salat, Avocado med sesam, ristede mandler & urter og Årstidens frugt.
 
-Tip: Ring eller skriv til stedet, før du booker, hvis du har allergier eller strenge kostønsker. Så kan de fortælle dig, hvad der er muligt.
+Tip: Har du allergier, så fortæl det, når du booker. PULS skriver selv på koncertsiden: "Fortæl os gerne om eventuelle allergier ved booking."
 
 ## Hvordan kan atmosfæren forbedre brunchoplevelsen?
 
-Atmosfæren påvirker, hvor længe du bliver, og hvor godt du kan tale med dem, du er sammen med. Brunch er ofte en social oplevelse, og derfor er pladsforhold, støjniveau og siddekomfort en del af helhedsindtrykket. Atmosfæren er personlig, så tænk på, hvad du selv lægger vægt på.
+Atmosfæren påvirker, hvor længe du bliver, og hvor godt du kan tale med dem, du er sammen med. Brunch er ofte en social oplevelse, og derfor er pladsforhold, støjniveau og siddekomfort en del af helhedsindtrykket. Atmosfæren er personlig, så tænk på, hvad du selv lægger vægt på. Lasse K. (Returning guest) skriver om PULS på pulskitchen.dk: "Absolut fantastisk mad og en vidunderlig atmosfære, fra det øjeblik vi trådte ind, til den sidste bid."
 
 ### 1. Tænk over støjniveau og musik
 
-Hvis I er et selskab, der gerne vil tale sammen, så sørg for, at stedet ikke er så højlydt, at I skal råbe. Spørg efter et bord væk fra højttalerne, hvis det er muligt.
+Hvis I er et selskab, der gerne vil tale sammen, så sørg for, at stedet ikke er så højlydt, at I skal råbe.
 
 ### 2. Se på pladsen
 
@@ -457,7 +457,7 @@ Tjek, om der er udendørs siddepladser, og om der er plads til barnevogn eller s
 
 Især i weekenden kan det være en fordel at reservere. Så undgår du ventetid, og du kan sikre dig et bord, der passer til dit selskab.
 
-Tip: Skal I være mange, så skriv antal personer og eventuelle børn ved bookingen, så stedet kan forberede sig.
+Tip: Skal I være mange, så book i god tid, og skriv antal personer og eventuelle børn ved bookingen.
 
 ### Hvad betyder det, at en brunchmenu er tidssvarende?
 
@@ -477,11 +477,11 @@ Ifølge brunchsiden serveres byg-selv-brunch mandag til fredag 11.00-14.00, og b
 
 ### Hvordan finder jeg en brunch, der passer til vegetarisk eller vegansk kost?
 
-Se efter mærkning på menuen, og spørg personalet om ingredienserne, før du bestiller. På PULS Kitchen & Bars brunchside og menukort er retterne ikke mærket som vegetariske eller veganske, så kontakt stedet på forhånd, hvis du har særlige kostønsker.
+Se efter tydelig mærkning og konkrete ingrediensbeskrivelser på menuen. På PULS Kitchen & Bars brunchmenu står retterne med deres ingredienser, for eksempel Klassisk græsk salat, Avocado med sesam, ristede mandler & urter og Brie, emmentaler & feta m. peberfrugt & kompot, og på koncertsiden skriver PULS: "Vi tilbyder altid vegetariske alternativer."
 
 ### Hvad skal jeg kigge efter i en brunchoplevelse?
 
-Se på, hvor tydelig menuen er, hvad der er inkluderet i prisen, hvilke tider der gælder, og hvordan personalet svarer på spørgsmål. Til sidst er det din egen smag, der afgør, om stedet er det rette for dig.`
+Se på, hvor tydelig menuen er, hvad der er inkluderet i prisen, hvilke tider der gælder, og hvordan servicen er. Til sidst er det din egen smag, der afgør, om stedet er det rette for dig.`
   },
 ];
 
