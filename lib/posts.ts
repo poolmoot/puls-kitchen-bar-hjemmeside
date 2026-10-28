@@ -709,6 +709,252 @@ Priser, tider og regler i artiklen er læst på PULS Kitchen & Bars egne hjemmes
 - PULS Kitchen & Bar: https://pulskitchen.dk, https://pulskitchen.dk/menu, https://pulskitchen.dk/brunch, https://pulskitchen.dk/koncertmenu, https://pulskitchen.dk/selskaber og https://pulskitchen.dk/kontakt
 - Fødevarestyrelsen, oplysning om allergener: https://foedevarestyrelsen.dk/kost-og-foedevarer/maerkning-og-markedsfoering-af-foedevarer/generelle-maerkningskrav/oplysning-om-allergener`
   },
+  {
+    slug: "cocktailbar-i-orestad-cocktails-og-middag-for-koncerten",
+    title: "Cocktailbar i Ørestad: Cocktails og middag før koncerten",
+    seoTitle: "Cocktailbar i Ørestad: Cocktails og middag før koncerten",
+    seoDescription:
+      "Drinkskort, aftenmenu og koncertmenu hos PULS Kitchen & Bar i Ørestad: 500 m fra Royal Arena, happy hour torsdag kl. 17-20. Se priser og tider.",
+    excerpt:
+      "Drinks og middag før koncerten hos PULS Kitchen & Bar i Ørestad: 500 m fra Royal Arena, drinkskort, aftenmenu, koncertmenu og happy hour torsdag kl. 17-20.",
+    date: "2026-10-28",
+    tags: ["cocktailbar københavn", "Ørestad", "happy hour", "Royal Arena", "selskaber"],
+    authorName: "Yusuf",
+    authorTitle: "head of conent",
+    coverImage:
+      "/images/blog/cocktailbar-i-orestad-cocktails-og-middag-for-koncerten.webp",
+    coverImageAlt: "Cocktailbar i Ørestad: Cocktails og middag før koncerten",
+    body: `PULS Kitchen & Bar ligger på Arne Jacobsens Allé 9 i Ørestad, 500 m fra Royal Arena. Hjemmesiden pulskitchen.dk beskriver stedet som Ørestads moderne bistro med brunch, frokost, aftenmenu, en særlig koncertmenu og et drinkskort med cocktails, øl og vin. Her har vi samlet de oplysninger, du skal bruge for at planlægge drinks og middag før en koncert: hvad der står på drinkskortet, hvornår der er happy hour, hvad man kan spise, hvor langt der er til arenaen, og hvordan man booker. Alle retter, drikke, priser og tider er hentet fra restaurantens egne sider i oktober 2026, og priserne er angivet som på menuen. Tjek pulskitchen.dk for aktuelle priser, før du bestiller.
+
+## Hvad er PULS Kitchen & Bar i Ørestad?
+
+PULS Kitchen & Bar er ifølge sin egen hjemmeside Ørestads moderne bistro: stedet man vender tilbage til, hvad enten det er brunch om lørdagen, frokost på en travl hverdag eller aftensmad inden en koncert i Royal Arena. Restauranten ligger ved vandet og har plads til 140 gæster indendørs og 150 på den store træterrasse. Lasse K. (Returning guest) skriver om PULS på pulskitchen.dk: "Absolut fantastisk mad og en vidunderlig atmosfære — fra det øjeblik vi trådte ind, til den sidste bid."
+
+### Hvad er de vigtigste fakta om PULS?
+
+- Adresse: Arne Jacobsens Allé 9, 2300 København S.
+- Pladser: 140 gæster indendørs og 150 gæster på træterrassen.
+- Menuer: brunch, frokost, aften, koncert- og konferencemenu samt drinks.
+- Afstand: 500 m fra Royal Arena og 600 m fra Bella Centret.
+- Bar: drinkskortet angiver, at baren er åben 11.00 til 22.00.
+- Happy hour: torsdag kl. 17 til 20, markeret ved cocktails på drinkskortet.
+- Telefon: +45 3262 6030. E-mail: info@pulskitchen.dk.
+
+Forsiden beskriver stemningen med ordene New Yorker Rawness with Parisian elegance og skriver, at PULS ligger midt i Ørestad, få minutter fra Royal Arena. Stedet ligger i gåafstand fra Royal Arena, Fields og Cabinn Metro Hotel og 5 minutter fra Metro Ørestad.
+
+PULS' bar beskrives på forsiden med ordene Signature cocktails og Klassiske drinks: håndlavede cocktails, et bredt udvalg af vine og kolde øl, som man kan nyde ved baren eller ved bordet.
+
+## Hvilke cocktails og drinks står på PULS' drinkskort?
+
+Drinkskortet på pulskitchen.dk er overskrevet Klassiske cocktails og signaturdrinks, og baren er ifølge kortet åben 11.00 til 22.00. Der er spritz, gindrinks, mojito, pitchers til deling, øl, vin og alkoholfri drikke. Priserne nedenfor er dem, der står på menuen.
+
+### Hvilke cocktails kan man få, og hvad koster de?
+
+- Aperol Spritz, 95,-: Aperol, prosecco, danskvand og appelsin.
+- Limoncello Spritz, 95,-: Limoncello, prosecco, danskvand og citron.
+- French 75, 115,-: gin, citron, sukker og prosecco.
+- Gin & Tonic, 115,-: gin, Fevertree tonic og agurk.
+- Gin Selection: Hendricks 125,- og Monkey 47 135,-.
+- Mojito, 115,-: lys rom, rørsukker, mynte og lime.
+
+Beskrivelserne ovenfor er de ingredienser, drinkskortet selv nævner.
+
+### Hvad er en pitcher hos PULS, og hvad koster den?
+
+- Pitcher 1,5L: Mojito, Gin & Tonic eller Passion Martini.
+- Prisen er 345,- for en pitcher.
+- Pitchers er en måde at dele drinks på i en større gruppe, når I mødes før koncerten.
+
+På aftenkortet og koncertmenuen findes desuden afsnittet Start Aftenen med et Glas. Her står Gin & Tonic Hendricks 125,-, Limoncello 95,-, Gin & Tonic 115,-, Aperol Spritz 95,-, Dark N' Stormy 115,-, Doriac Rosé 95,-, French 75 115,- og Prosecco 75,-.
+
+### Hvilke øl og alkoholfri drikke findes på drinkskortet?
+
+- Royal Classic, Royal Pilsner, Royal Blanche og Royal IPA: 45,- for 0,33 L, 65,- for 0,5 L og 175,- for 1,5 L.
+- Birra Moretti 4,6 %: 45,- for 0,33 L, 65,- for 0,5 L og 175,- for 1,5 L.
+- Anarkist Bloody Weizen 5,2 %: 49,- for 0,33 L, 69,- for 0,5 L og 185,- for 1,5 L.
+- Schiøtz Mørk Mumme 6,5 %: 49,- for 0,33 L, 69,- for 0,5 L og 185,- for 1,5 L.
+- Heineken 0,0 % på flaske: 45,-.
+- Sodavand, øko-saft, danskvand og isvand samt friskpresset juice og shakes til 55,-.
+
+Vinkortet har bobler, rosé, hvidvin, rødvin og dessertvin. Prosecco fra Corte Delle Calli beskrives som "Frisk og blød med fine frugtige noter" og står til 75,- pr. glas, og Doriac rosé er en "Klassisk, tør, lys, sydfransk rosé" til 95,- pr. glas. Flaskepriserne på kortet starter ved 295,-. Der er også varme drikke fra Lavazza, blandt andet Americano, Caffé Latte, Cappuccino og Irish Coffee.
+
+## Hvornår er der happy hour hos PULS?
+
+Drinkskortet markerer Happy Hour torsdag kl. 17 til 20 ved sektionen Cocktails, og forsiden skriver det samme: Happy hour tors. kl. 17-20. Det er en god anledning til at mødes over en Aperol Spritz, en French 75 eller en Mojito.
+
+### Hvad er det vigtigste at vide om happy hour?
+
+- Tidspunkt: torsdag kl. 17 til 20.
+- Sted i menuen: markeringen står ved Cocktails på drinkskortet.
+- Cocktails på kortet: Aperol Spritz, Limoncello Spritz, French 75, Gin & Tonic og Mojito.
+- Torsdag er restauranten åben 11.00 til 22.00, og køkkenet lukker kl. 21.45.
+
+Hvis du planlægger en torsdag med koncert i Royal Arena, kan du lægge dit møde med vennerne inden for happy hour-vinduet og derefter bestille mad. Tjek koncertens dørtider og starttid på arenaens egen side, og læg tid til gåturen. Stedet anbefaler selv at komme 1,5 til 2 timer før koncertstart, hvis man vil spise i ro.
+
+## Kan man spise middag hos PULS, før man går til koncert?
+
+Ja. PULS serverer aftenkort fra kl. 16.00 alle dage, og køkkenet lukker kl. 21.45 (fredag og lørdag kl. 22.00, søndag kl. 21.00). Derudover har restauranten en særlig koncert- og konferencemenu, som kun serveres ved udvalgte koncert- og konferencedage. Her er et udsnit af aftenkortet med menuens egne priser.
+
+### Hvilke små retter og hovedretter står på aftenkortet?
+
+- Carpaccio, 135,-: tyndskåret kalveinderlår, olivenolie, rucola, pinjekerner og parmesan.
+- Charcuterie, 125,-: lufttørret skinke, chorizo, ost, kompot og brød.
+- Burrata, 125,-: cherrytomater, rucola, pesto, balsamico og basilikum.
+- Rejecocktail, 125,-: spæd salat, håndpillede rejer, avocado, caviart, thousand island dressing, citron og dild.
+- Snack Nachos, 95,-: cheddarost, jalapeños, chimichurri, guacamole og creme fraiche.
+- Bruschetta Al Pomodoro, 85,-: rustikt brød, tomat, hvidløg, basilikum og olivenolie.
+- Gratineret Gedeost, 75,-: valnød, honning og ristet brød chips.
+- Ribeye, 325,-: kornfodret kødkvæg fra Uruguay, sprøde fritter og bearnaise sauce.
+- Braiseret Okse, 235,-: langtidsbraiseret oksetykkam, knuste kartofler med trøffel, sauterede svampe, perleløg, demi glace og hakkede mandler.
+- Fish N' Chips, 175,-: torsk, grove fritter og sauce tartar.
+- Moules Frites, 175,-: hvidvinsdampende blåmuslinger, cremet sauce, grove fritter og aioli.
+
+Aftenkortet har også pasta og pizza. Pasta Trøffel koster 165,- (linguine, svampe og cremet sauce med trøffel), og Ravioli koster 165,- (ravioli, ricotta, spinat, salvie og frisk parmesan). Pizzaerne er Prosciutto 145,-, Piccante 135,-, Vitello 135,-, Pepperoni 135,-, Bianca 135,-, Rucola 135,- og Margherita 125,-. Piccante er på menuen beskrevet med ventricina, en stærk krydret pølse.
+
+### Hvilke salater og burgere er der på aftenkortet?
+
+- Chèvre Chaud, 155,-: gedeost, grillet brød, syltede græskar, salat, balsamico glace, honning ristede valnødder og blåbær.
+- Cæsar, 155,-: klassisk cæsar, grillet kyllingebryst og papadums.
+- Puls Burger, 155,-: flammegrillet oksekød, brioche bolle, spæd salat, cheddar, løg, tomat, agurk og dijonnaise.
+- Spicy Burger, 155,-: flammegrillet oksekød, brioche bolle, spæd salat, cheddar, syltede jalapeños, spicy salsa og chilimayo.
+- Kylling Burger, 155,-: grillet kyllingebryst, brioche bolle, spæd salat, cheddar, løg, agurk og dijonnaise.
+- Veggie Burger, 155,-: kikærtebøf, brioche bolle, spæd salat, tomat, agurk og dijonnaise.
+
+Burgerne serveres med ovnbagte timiankartofler, og grove fritter koster 10,- ekstra. Bacon kan tilføjes til tre af burgerne for 15,-. Til desserten har menuen Crème Brûlée med fløjlsblød vaniljecreme, sprød sukkerskorpe og friske bær til 75,-, Hvid Chokolade med hvid chokolade, cream cheese, digestive og friske bær til 75,- og Crepe Suzette med pandekager, karamel, appelsinsauce, vaniljeis og ristede mandler til 95,-.
+
+Om dagen har PULS frokostkort, som serveres mandag til fredag fra kl. 11.00 og lørdag og søndag fra kl. 10.00, alle dage til kl. 16.00. Her står blandt andet smørrebrød (1 stk. 85,- eller 2 stk. 160,-, frem til kl. 15.00) med rødspætte, avocado, lakse rilette, hønsesalat, roast beef, kartoffelmad og æg og rejer, samt klassikere som Ribeye 275,-, Club Sandwich 145,- og Fish N' Chips 155,-.
+
+## Hvad er PULS' koncert- og konferencemenu?
+
+Koncert- og konferencemenuen er en særskilt menu, som restauranten kun serverer ved udvalgte koncert- og konferencedage, og den står på siden pulskitchen.dk/koncertmenu. Menuen er kortere end aftenkortet og har mad, drikke og en samlet pris for en bestemt kombination.
+
+### Hvilke retter og priser står på koncertmenuen?
+
+- Ribeye Steak, 325,-: Ribeye 300g, sprøde fritter og bearnaise.
+- Pasta Trøffel, 195,-: linguine, grillet kylling, svampe, trøffel og cremet sauce.
+- Puls Burger, 180,-: flammegrillet oksekød, bacon, brioche bolle, spæd salat, cheddar, løg, tomat, agurk, fritter og dijonnaise.
+- Fish N' Chips, 175,-: torsk, grove fritter og sauce tartar.
+- Chèvre Chaud Salat, 155,-: gedeost, grillet brød, syltede græskar, spæd salat, balsamico glace, honning ristede valnødder og friske bær.
+- Kokken Anbefaler: Ribeye Steak med sprøde fritter og bearnaise samt Crème Brûlée, samlet pris 375,-. Side salat kan tilføjes for 35,-.
+- Crème Brûlée, 75,-, og Sprøde Fritter m. Dip, 55,-.
+
+Koncertmenuen åbner med det samme afsnit som aftenkortet, Start Aftenen med et Glas, så man kan begynde med en drink. På koncertsiden skriver PULS: "Vi tilbyder altid vegetariske alternativer." Samme sted står der: "Fortæl os gerne om eventuelle allergier ved booking."
+
+## Hvor langt er der fra PULS til Royal Arena og Bella Centret?
+
+PULS ligger 500 m fra Royal Arena og 600 m fra Bella Centret. Restaurantens egen koncertside angiver 5 til 7 minutters gang til Royal Arena og cirka 10 til 12 minutters gang til Bella Centret.
+
+### Hvad skal man vide om afstand, tid og transport?
+
+- Royal Arena: 500 m, 5 til 7 minutters gang.
+- Bella Centret: 600 m, cirka 10 til 12 minutters gang.
+- Metro: Ørestad Metro Station ligger 5 minutters gang fra restauranten.
+- Parkering: koncertsiden nævner en stor parkeringsplads på den anden side af gaden, og selskabssiden skriver, at der er god parkeringsmulighed i Ørestad direkte ved restauranten.
+- Nærområdet: PULS ligger i gåafstand fra Fields og Cabinn Metro Hotel.
+
+PULS anbefaler på koncertsiden at ankomme senest 1,5 til 2 timer før koncertstart, så man kan spise i ro og nå frem til arenaen i god tid. Det passer til en plan, hvor man først tager en drink og derefter bestiller mad. Husk at tjekke koncertens egen tid for dørene og start på arenaens side.
+
+## Hvordan booker man bord hos PULS før en koncert?
+
+Man kan reservere via Reservation-knappen på pulskitchen.dk eller ringe på +45 3262 6030. PULS skriver på koncertsiden, at de altid anbefaler at booke på forhånd på koncertaftener, og kontaktsiden beder grupper på mere end 8 personer om at ringe eller reservere i forvejen.
+
+### Hvad er en god huskeliste til en gruppe før koncerten?
+
+- Bestil bord i god tid, især på koncertaftener.
+- Er I mere end 8 personer, så ring eller reserver på forhånd.
+- Der er en stor parkeringsplads på den anden side af gaden.
+- PULS tilbyder altid vegetariske alternativer.
+- Kom 1,5 til 2 timer før koncertstart, hvis I vil spise i ro.
+- Tjek, om koncertmenuen serveres den pågældende dag, da den kun serveres ved udvalgte koncert- og konferencedage.
+
+På koncertsiden skriver PULS: "Vi tager gerne imod grupper til koncertaftener." Restauranten har også en særskilt side for selskaber, som du kan læse om nedenfor.
+
+## Hvilke selskabslokaler tilbyder PULS?
+
+PULS har tre selskabslokaler, fra et intimt lokale til 30 gæster til hele restauranten med plads til 150. Det skriver restauranten på sin side om selskaber, hvor den også angiver, at PULS tager sig af maden, drikkevarerne og servicen.
+
+### Hvad er forskellen på de tre lokaler?
+
+- Lille lokale: op til 30 gæster, afskærmet, fuldt AV-udstyr og dedikeret personale. Siden nævner barnedåb, runde fødselsdage, mindehøjtider og mindre firmaarrangementer.
+- Stort lokale: op til 50 gæster, fleksibel indretning, fuldt AV-udstyr og eget serveringsteam. Siden nævner konfirmationer, firmafester og større private selskaber.
+- Hele restauranten: op til 150 gæster, lejet eksklusivt, med fuldt AV-udstyr, dedikeret personale og skræddersyet menu. Siden nævner store firmafester, gallamiddage og jubilæer.
+
+Ifølge siden er opsætningen klar, når gæsterne ankommer. Menuen tilpasses anledningen, fra tre retters middag til buffet, og drikkevarer kan være vin, fadøl, cocktails og alkoholfri som pakke eller løbende fra baren. Bordopsætningen tilpasses efter aftale, for eksempel reception, teater eller rundt bord. AV-udstyret er lyd, projektor og skærm.
+
+Selskabssiden nævner konfirmationer, fødselsdage, firmaarrangementer, barnedåb, mindehøjtider, julefrokost, teambuilding og private middage. Send dato, antal gæster og anledning til info@pulskitchen.dk, så svarer restauranten inden for 24 timer med et tilbud.
+
+## Hvad med brunch og gavekort hos PULS?
+
+PULS har brunch, og man kan købe gavekort online. Begge dele er beskrevet på restaurantens egne sider, og detaljerne herunder er hentet derfra.
+
+### Hvad er det vigtigste om brunch og gavekort?
+
+- Byg-Selv-Brunch: hverdage fra kl. 11.00, og ad libitum i weekenden fra kl. 10.00, begge til kl. 14.00.
+- Weekendbrunch lørdag og søndag kl. 10.00 til 14.00: 195,- inklusive kaffe, juice og vand. Børn under 12 betaler halv pris, og børn under 3 er gratis.
+- Brunchen starter med 5 retter, og man vælger derefter 1 ret ad gangen.
+- Gavekort: dækker alt på menuen, du vælger selv beløbet, det sendes digitalt på mail, og siden skriver, at det ikke udløber.
+
+Gavekortet købes online hos restaurantens partner Lifepeaks, og siden beskriver det som gyldigt til mad, drinks og oplevelser hos PULS.
+
+## Hvordan finder man PULS i Ørestad?
+
+PULS ligger på Arne Jacobsens Allé 9, 2300 København S, 5 minutters gang fra Metro Ørestad og i gåafstand fra Royal Arena, Fields og Cabinn Metro Hotel.
+
+### Hvad er åbningstiderne og kontaktoplysningerne?
+
+- Mandag til torsdag: 11.00 til 22.00. Køkkenet lukker kl. 21.45.
+- Fredag: 11.00 til 24.00. Køkkenet lukker kl. 22.00.
+- Lørdag: 10.00 til 24.00. Køkkenet lukker kl. 22.00.
+- Søndag: 10.00 til 22.00. Køkkenet lukker kl. 21.00.
+- Telefon +45 3262 6030 og e-mail info@pulskitchen.dk.
+
+Forsiden har links til Royal Arena, Fields Shopping Center, Cabinn Metro Hotel og Bella Center som nyttige links i nærheden. Restauranten har også et Take Away-link på forsiden.
+
+## FAQ: ofte stillede spørgsmål
+
+### Hvad er åbningstiderne for PULS Kitchen & Bar?
+
+Mandag til torsdag er der åbent 11.00 til 22.00, fredag 11.00 til 24.00, lørdag 10.00 til 24.00 og søndag 10.00 til 22.00. Køkkenet lukker kl. 21.45 mandag til torsdag, kl. 22.00 fredag og lørdag og kl. 21.00 søndag. Drinkskortet angiver, at baren er åben 11.00 til 22.00.
+
+### Er der en terrasse hos PULS?
+
+Ja. Hjemmesiden skriver, at der er plads til 150 gæster på den store træterrasse og 140 gæster indendørs.
+
+### Kan man reservere bord før en koncert i Royal Arena?
+
+Ja. Restaurantens koncertside anbefaler altid at booke på forhånd på koncertaftener og at ankomme senest 1,5 til 2 timer før koncertstart. Man kan reservere online via Reservation-knappen på pulskitchen.dk.
+
+### Hvornår er der happy hour?
+
+Der er happy hour torsdag kl. 17 til 20, og menuen markerer det ved sektionen Cocktails.
+
+### Er der selskabslokaler?
+
+Ja. Siden om selskaber beskriver tre lokaler: op til 30 gæster, op til 50 gæster og hele restauranten med plads til op til 150 gæster. Alle er beskrevet med fuldt AV-udstyr, og restauranten svarer på forespørgsler inden for 24 timer.
+
+### Er der vegetariske muligheder?
+
+Ja. Koncertsiden skriver: "Vi tilbyder altid vegetariske alternativer." På frokost- og aftenkortet står blandt andet Veggie Burger med kikærtebøf.
+
+### Hvordan kontakter man PULS for en reservation?
+
+Ring på +45 3262 6030, skriv til info@pulskitchen.dk eller brug Reservation-knappen på pulskitchen.dk.
+
+Book bord via pulskitchen.dk, hvis du vil spise eller tage en drink før din næste koncert i Royal Arena, og "start koncerten med høj PULS".
+
+## Hvad er kilderne?
+
+Oplysningerne i artiklen er hentet fra PULS Kitchen & Bars egne sider i oktober 2026.
+
+### Hvilke sider er brugt?
+
+- PULS Kitchen & Bar, forside: https://pulskitchen.dk/
+- PULS Kitchen & Bar, menukort (brunch, frokost, aften, drinks): https://pulskitchen.dk/menu
+- PULS Kitchen & Bar, koncertmenu: https://pulskitchen.dk/koncertmenu
+- PULS Kitchen & Bar, selskaber: https://pulskitchen.dk/selskaber
+- PULS Kitchen & Bar, kontakt: https://pulskitchen.dk/kontakt
+- PULS Kitchen & Bar, gavekort: https://pulskitchen.dk/gavekort`
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
