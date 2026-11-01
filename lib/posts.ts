@@ -1115,6 +1115,168 @@ Ja. Ifølge drikkekortet er baren åben kl. 11.00-22.00.
 
 Ja, grupper på mere end otte personer skal ringe eller reservere på forhånd. PULS kan kontaktes på +45 3262 6030.`
   },
+  {
+    slug: "smorrebrod-i-orestad-puls-kitchen",
+    title: "Smørrebrød i Ørestad | PULS Kitchen",
+    seoTitle: "Smørrebrød i Ørestad | PULS Kitchen",
+    seoDescription:
+      "Få smørrebrød i Ørestad hos PULS Kitchen. Vælg mellem syv slags, se priserne, frokosttiderne og de øvrige retter på frokostmenuen.",
+    excerpt:
+      "Smørrebrød serveres frem til kl. 15 hos PULS Kitchen i Ørestad.",
+    date: "2026-11-01",
+    tags: ["smørrebrød Ørestad", "frokost Ørestad", "PULS Kitchen", "restaurant Ørestad"],
+    authorName: "Yusuf",
+    authorTitle: "head of conent",
+    coverImage:
+      "/images/blog/smorrebrod-i-orestad-puls-kitchen.webp",
+    coverImageAlt: "Smørrebrød i Ørestad | PULS Kitchen",
+    body: `Leder du efter smørrebrød i Ørestad til frokost? Hos PULS Kitchen & Bar kan du vælge mellem syv slags, og smørrebrødet står på menuen frem til kl. 15.00. Et stykke koster 85,- og to stykker koster 160,-. Her får du overblik over, hvad der er på smørrebrødene, hvad resten af frokostmenuen byder på, og hvordan du finder os.
+
+### Hvad er det vigtigste at vide om smørrebrødet hos PULS?
+
+- Der er syv slags smørrebrød: Rødspætte, Avocado, Lakse Rilette, Hønsesalat, Roast Beef, Kartoffelmad og Æg & Rejer.
+- Prisen er 85,- for ét stykke og 160,- for to stykker.
+- Smørrebrødet er på menuen frem til kl. 15.00.
+- Frokost serveres mandag til fredag fra kl. 11.00 og lørdag og søndag fra kl. 10.00, alle dage til kl. 16.00.
+- PULS ligger på Arne Jacobsens Allé 9, 500 m fra Royal Arena.
+
+## Hvilke slags smørrebrød kan du vælge hos PULS?
+
+Du kan vælge mellem syv slags smørrebrød: Rødspætte, Avocado, Lakse Rilette, Hønsesalat, Roast Beef, Kartoffelmad og Æg & Rejer. På menuen står hvert smørrebrød med sine ingredienser, så du kan se, hvad der ligger på brødet, før du bestiller.
+
+Menuen blander fisk, kød og grønt. Rødspætten kommer med grov remoulade og grillet citron, mens Avocado har hytteost, radiser og soltørret tomat. Roast Beef har peberrod og friterede løg, og Kartoffelmad har nye kartofler og bacon. Du kan vælge ud fra det, du har mest lyst til, eller tage to forskellige stykker.
+
+### Hvad ligger der på de syv smørrebrød?
+
+- Rødspætte: grov remoulade, fennikel, friterede kapers, caviart, radiser, grønt og grillet citron. Du kan få håndpillede fjordrejer på for 25,-.
+- Avocado: hytteost, radiser, soltørret tomat, sesamfrø og grønt. Også her kan du tilføje håndpillede fjordrejer for 25,-.
+- Lakse Rilette: varmrøget laks, creme fraiche, citron og dild.
+- Hønsesalat: svampe, asparges, friterede kapers, bacon og grønt.
+- Roast Beef: salat, peberrod, syltede agurk, remoulade, friterede løg, svampe og grønt.
+- Kartoffelmad: nye kartofler, bacon, mayo, friterede løg, syltede løg og grønt.
+- Æg & Rejer: æg, håndpillede rejer, hjertesalat, caviart, mayo og grønt.
+
+## Hvad koster smørrebrød hos PULS?
+
+Et stykke smørrebrød koster 85,- og to stykker koster 160,-. Prisen gælder de syv slags på frokostmenuen.
+
+Hvis du tager to stykker, betaler du 10,- mindre, end hvis du bestiller to enkelte stykker til 85,-. Det gør to stykker til en nem løsning, når du vil have en hurtig frokost med to forskellige smage. Vil du have lidt ekstra på Rødspætte eller Avocado, koster håndpillede fjordrejer 25,- ekstra.
+
+## Hvornår kan du spise smørrebrød hos PULS?
+
+Smørrebrødet står på menuen frem til kl. 15.00. Frokostmenuen serveres mandag til fredag fra kl. 11.00 og lørdag og søndag fra kl. 10.00, og alle dage til kl. 16.00.
+
+Det betyder, at du kan nå smørrebrød både på en travl hverdag og i weekenden. Kommer du efter kl. 15.00, kan du stadig vælge fra resten af frokostmenuen frem til kl. 16.00. Fra kl. 16.00 gælder aftenkortet.
+
+## Hvor ligger PULS, når du vil spise smørrebrød i Ørestad?
+
+PULS Kitchen & Bar ligger på Arne Jacobsens Allé 9, 2300 København S, ved vandet i Ørestad. Det er gåafstand til Fields og Cabinn Metro Hotel, og Ørestad Metro Station ligger 5 minutters gang fra restauranten.
+
+Royal Arena ligger 500 m væk, og der er 5 til 7 minutters gang. Til Bella Centret er der 600 m, og turen tager ca. 10 til 12 minutters gang. Det gør PULS til et nemt sted at spise frokost, hvis du arbejder i området, har et møde i Bella Center eller er på besøg i Fields. Der er også en stor parkeringsplads på den anden side af gaden.
+
+## Hvad kan du ellers vælge fra frokostmenuen?
+
+Ud over smørrebrød har frokostmenuen klassikere, salater, burgere og retter fra havet. Alle priser nedenfor er fra frokostmenuen.
+
+### Hvilke klassikere står på frokostmenuen?
+
+- Ribeye, 275,-: kornfodret kødkvæg fra Uruguay, sprøde fritter og bearnaisesauce.
+- Ravioli, 155,-: ricotta, spinat, salvie og frisk parmesan.
+- Club Sandwich, 145,-: grillet kyllingebryst, spæd salat, tomat, rødløg, bacon, karry, ovnbagte timiankartofler og dijonnaise.
+- Pasta Trøffel, 135,-: linguine, svampe, trøffel og cremet sauce. Grillet kyllingebryst koster 30,- ekstra.
+- Snack Nachos, 95,-: cheddarost, jalapeños, chimichurri, guacamole og creme fraiche.
+
+### Hvilke salater kan du vælge?
+
+- Chèvre Chaud, 145,-: gedeost, grillet brød, syltede græskar, salat, balsamico glace, honningristede valnødder og blåbær.
+- Cæsar, 145,-: klassisk cæsar med grillet kyllingebryst og papadums.
+
+### Hvilke burgere serveres til frokost?
+
+Der er fire burgere, og de koster 145,- hver. De serveres med ovnbagte timiankartofler, og du kan skifte til grove fritter for 10,-. Bacon koster 15,- ekstra på de tre første.
+
+- Puls Burger: flammegrillet oksekød, brioche bolle, spæd salat, cheddar, løg, tomat, agurk og dijonnaise.
+- Spicy Burger: flammegrillet oksekød, brioche bolle, spæd salat, cheddar, syltede jalapeños, spicy salsa og chilimayo.
+- Kylling Burger: grillet kyllingebryst, brioche bolle, spæd salat, cheddar, løg, agurk og dijonnaise.
+- Veggie Burger: kikærtebøf, brioche bolle, spæd salat, tomat, agurk og dijonnaise.
+
+### Hvilke retter fra havet kan du få?
+
+- Moules Frites, 155,-: hvidvinsdampede blåmuslinger, cremet sauce, grove fritter og aioli.
+- Fish N' Chips, 155,-: torsk, grove fritter og sauce tartar.
+- Calamari Fritti, 105,-: blæksprutteringe, grillet citron, urt, aioli og sauce tatar.
+
+## Hvad kan du få til dessert og drikke?
+
+Frokostmenuen har tre desserter, og drikkekortet har klassiske cocktails og signaturdrinks. Så kan du runde frokosten af med noget sødt eller en drink, hvis du har tid.
+
+### Hvilke desserter står på menuen?
+
+- Crepe Suzette, 95,-: pandekager med karamel, appelsinsauce, vaniljeis og ristede mandler.
+- Crème Brûlée, 75,-: fløjlsblød vaniljecreme, sprød sukkerskorpe og friske bær.
+- Hvid Chokolade, 75,-: hvid chokolade, cream cheese, digestive og friske bær.
+
+### Hvilke drinks kan du vælge?
+
+Drikkekortet har også øl, vin, kaffe, friskpresset juice og sodavand. Torsdag kl. 17 til 20 er der happy hour. Her er nogle af drinksene med priser.
+
+- Aperol Spritz, 95,-: Aperol, prosecco, danskvand og appelsin.
+- Limoncello Spritz, 95,-: limoncello, prosecco, danskvand og citron.
+- French 75, 115,-: gin, citron, sukker og prosecco.
+- Gin & Tonic, 115,-: gin, Fevertree tonic og agurk.
+- Mojito, 115,-: lys rom, rørsukker, mynte og lime.
+
+## Hvornår har PULS åbent?
+
+PULS har åbent hver dag. Køkkenet lukker lidt før restauranten, så kom i god tid, hvis du vil have mad.
+
+### Hvad er åbningstiderne?
+
+- Mandag til torsdag: kl. 11.00 til 22.00, køkkenet lukker kl. 21.45.
+- Fredag: kl. 11.00 til 24.00, køkkenet lukker kl. 22.00.
+- Lørdag: kl. 10.00 til 24.00, køkkenet lukker kl. 22.00.
+- Søndag: kl. 10.00 til 22.00, køkkenet lukker kl. 21.00.
+
+Der er plads til 140 gæster indendørs og 150 på den store træterrasse.
+
+## Hvad siger en gæst om en arbejdsfrokost hos PULS?
+
+På PULS' forside skriver Mette H. (TripAdvisor) om sit besøg: "Vi kom for en arbejdsfrokost og endte med at bestille dessert to gange. Personalet er opmærksomme og servicen er i top." Det er gæstens egne ord, som de står under "Hvad vores gæster siger".
+
+## Hvordan reserverer du, hvis I er flere?
+
+Er I flere end 8 personer, beder PULS om, at I ringer eller laver en reservation på forhånd. Telefonnummeret er +45 3262 6030, og på pulskitchen.dk finder du knappen Reservation.
+
+## FAQ
+
+### Hvilket smørrebrød kan man få hos PULS Kitchen & Bar?
+
+Der er syv slags: Rødspætte, Avocado, Lakse Rilette, Hønsesalat, Roast Beef, Kartoffelmad og Æg & Rejer. Hvert smørrebrød står med sine ingredienser på frokostmenuen.
+
+### Hvad koster smørrebrød i Ørestad hos PULS?
+
+Ét stykke koster 85,- og to stykker koster 160,-. Håndpillede fjordrejer kan føjes til Rødspætte og Avocado for 25,-.
+
+### Hvornår slutter serveringen af smørrebrød?
+
+Smørrebrødet står på menuen frem til kl. 15.00. Frokost serveres mandag til fredag fra kl. 11.00 og lørdag og søndag fra kl. 10.00, alle dage til kl. 16.00.
+
+### Hvor ligger PULS Kitchen & Bar?
+
+Restauranten ligger på Arne Jacobsens Allé 9, 2300 København S, ved vandet i Ørestad. Der er gåafstand til Fields og Cabinn Metro Hotel, og Ørestad Metro Station ligger 5 minutters gang væk.
+
+### Hvor langt er der fra PULS til Royal Arena og Bella Centret?
+
+Royal Arena ligger 500 m fra PULS, og der er 5 til 7 minutters gang. Bella Centret ligger 600 m væk, og der er ca. 10 til 12 minutters gang.
+
+### Hvilke andre frokostretter er der ud over smørrebrød?
+
+Frokostmenuen har klassikere som Ribeye, Ravioli, Club Sandwich, Pasta Trøffel og Snack Nachos, to salater, fire burgere og tre retter fra havet. Der er også tre desserter.
+
+Smørrebrød, en klassiker eller en burger: frokostmenuen hos PULS Kitchen & Bar har noget at vælge imellem, og smørrebrødet er på menuen frem til kl. 15.00. Klar til at smage?
+
+Reservér bord på pulskitchen.dk, eller ring på +45 3262 6030.`
+  }
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
