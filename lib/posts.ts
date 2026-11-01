@@ -955,6 +955,166 @@ Oplysningerne i artiklen er hentet fra PULS Kitchen & Bars egne sider i oktober 
 - PULS Kitchen & Bar, kontakt: https://pulskitchen.dk/kontakt
 - PULS Kitchen & Bar, gavekort: https://pulskitchen.dk/gavekort`
   },
+  {
+    slug: "frokost-i-orestad-smorrebrod-og-puls-frokost",
+    title: "Frokost i Ørestad | Smørrebrød og PULS-frokost",
+    seoTitle: "Frokost i Ørestad | Smørrebrød og PULS-frokost",
+    seoDescription:
+      "Find frokost i Ørestad hos PULS med smørrebrød, klassikere, burgere og drinks. Se frokosttider og læs om selskaber tæt på Royal Arena.",
+    excerpt:
+      "Læs om drinks til frokosten og mulighederne for at holde selskab hos PULS. Få også svar på praktiske spørgsmål om frokosttider, menu og beliggenhed.",
+    date: "2026-10-30",
+    tags: ["frokost Ørestad", "smørrebrød", "PULS Kitchen & Bar", "selskaber Ørestad", "drinks"],
+    authorName: "Yusuf",
+    authorTitle: "head of conent",
+    coverImage:
+      "/images/blog/frokost-i-orestad-smorrebrod-og-puls-frokost.webp",
+    coverImageAlt: "Frokost i Ørestad | Smørrebrød og PULS-frokost",
+    body: `På PULS kan du spise frokost i Ørestad fra formiddag til eftermiddag, med både smørrebrød og andre retter på kortet. Her får du overblik over tiderne og mulighederne, så du hurtigt kan finde et måltid, der passer til din dag.
+
+### Hvad skal du vide, før du vælger frokost?
+
+- Frokost serveres mandag til fredag kl. 11-16 og lørdag til søndag kl. 10-16.
+- Smørrebrød kan bestilles frem til kl. 15.
+- Frokostkortet har syv slags smørrebrød samt klassikere, salater, burgere og retter fra havet.
+- Ét stykke smørrebrød koster 85 kr., og to stykker koster 160 kr.
+
+## Hvornår kan man spise frokost på PULS i Ørestad?
+
+PULS serverer frokost mandag til fredag fra kl. 11 til 16 og lørdag til søndag fra kl. 10 til 16. Smørrebrød er på kortet til kl. 15, så tidspunktet er værd at have med i planlægningen, hvis det er dagens frokostvalg.
+
+### 1. Vælg den dag, du vil spise
+
+I weekenden begynder frokosten tidligere, kl. 10, og fortsætter til kl. 16. Det gør det muligt at lægge besøget ind både omkring en tidlig frokost og et senere måltid.
+
+### 2. Planlæg efter smørrebrødets sluttid
+
+Den øvrige frokost serveres frem til kl. 16. At skelne mellem de to tidspunkter hjælper dig med at vælge, om du vil gå efter smørrebrød eller en anden ret fra frokostkortet.
+
+### 3. Find PULS i Ørestad
+
+PULS ligger på Arne Jacobsens Allé 9, 2300 København S. Restauranten ligger 500 m fra Royal Arena og 600 m fra Bella Centret, i gåafstand fra Fields og Cabinn Metro Hotel og fem minutter fra Metro Ørestad. Adressen gør frokostbesøget relevant, når du allerede befinder dig i området.
+
+## Hvilket smørrebrød kan man vælge, og hvad koster det?
+
+Smørrebrødskortet byder på Rødspætte, Avocado, Lakse Rilette, Hønsesalat, Roast Beef, Kartoffelmad samt Æg & Rejer. Ét stykke koster 85 kr., og to stykker koster 160 kr., og smørrebrød serveres frem til kl. 15.
+
+### 1. Vælg mellem syv slags
+
+Start med at se på navnene på kortet, og vælg den variant, du har lyst til. Rødspætte og Roast Beef er blandt mulighederne, mens Avocado og Kartoffelmad giver andre valg. Du kan også vælge Lakse Rilette, Hønsesalat eller Æg & Rejer. Til Rødspætte og Avocado kan du tilvælge håndpillede fjordrejer for 25 kr.
+
+### 2. Bestem, om du vil have ét eller to stykker
+
+Et stykke smørrebrød koster 85 kr., mens to stykker koster 160 kr. Vælg ud fra, hvor meget du ønsker at bestille, og brug priserne til at danne dig et klart overblik inden måltidet. Begge muligheder hører til frokostkortets smørrebrød.
+
+### 3. Se på resten af frokostkortet
+
+Frokostkortet rummer også klassikerne Ribeye, Ravioli, Club Sandwich, Pasta Trøffel og Snack Nachos. Du finder desuden salaterne Chèvre Chaud og Cæsar, burgere som Puls Burger og Veggie Burger samt retter fra havet. Hvis smørrebrød ikke passer til dagens appetit, kan du derfor vælge en anden ret fra kortet.
+
+## Hvilke klassikere står på frokostkortet?
+
+Frokostkortets klassikere omfatter Ribeye (275 kr.), Ravioli (155 kr.), Club Sandwich (145 kr.), Pasta Trøffel (135 kr.) og Snack Nachos (95 kr.). Det giver flere forskellige retter at vælge imellem, når frokosten ikke skal være smørrebrød. Til Pasta Trøffel og Snack Nachos kan du tilvælge grillet kyllingebryst for 30 kr.
+
+### 1. Vælg mellem kød og pasta
+
+Vil du have Ribeye, finder du den blandt frokostkortets klassikere. Ravioli og Pasta Trøffel er også på kortet, hvis du hellere vil vælge en pastaret. Retterne giver dig forskellige muligheder uden at forlade frokostmenuen.
+
+### 2. Gå efter en sandwich eller noget at dele
+
+Club Sandwich er et af kortets klassiske valg, mens Snack Nachos giver et andet alternativ. Se på navnene og vælg den type frokost, du har mest lyst til i dag. Begge står blandt klassikerne på PULS’ frokostkort.
+
+## Hvilke andre frokostretter kan man vælge?
+
+Ud over klassikerne har frokostkortet salater, burgere og retter fra havet. Her finder du blandt andet Chèvre Chaud, Cæsar, Puls Burger, Veggie Burger, Moules Frites og Fish N' Chips.
+
+### 1. Vælg salat eller burger
+
+Salaterne er Chèvre Chaud og Cæsar, begge til 145 kr. Burgerne er Puls Burger, Spicy Burger, Kylling Burger og Veggie Burger, alle til 145 kr. og serveret med ovnbagte timiankartofler; grove fritter koster 10 kr. ekstra. Find den kategori, der passer til din frokostlyst, og vælg derefter blandt retterne på kortet.
+
+### 2. Se på retterne fra havet
+
+Frokostkortets udvalg fra havet består af Moules Frites (155 kr.), Fish N' Chips (155 kr.) og Calamari Fritti (105 kr.). Sammen med salaterne, burgerne og klassikerne giver det et bredt frokostkort at vælge fra, også hvis I ikke alle vil have det samme.
+
+## Hvor ligger PULS i forhold til Royal Arena, Bella Centret og Fields?
+
+PULS Kitchen & Bar ligger på Arne Jacobsens Allé 9, 2300 København S. Restauranten ligger 500 m fra Royal Arena og 600 m fra Bella Centret, i gåafstand fra Fields og Cabinn Metro Hotel og fem minutter fra Metro Ørestad.
+
+### 1. Find adressen før frokosten
+
+Sæt Arne Jacobsens Allé 9, 2300 København S, som destination, når du planlægger dit besøg. Det placerer frokosten tæt på både Royal Arena og Bella Centret, og nær Fields og Cabinn Metro Hotel. Så kan du samle et måltid og dagens ærinder i samme område.
+
+### 2. Vælg transport efter dagens plan
+
+Metro Ørestad ligger fem minutters gang fra PULS, så metroen er en mulighed, hvis du kommer med offentlig transport. Kommer du i bil, ligger der en stor parkeringsplads på den anden side af gaden. Placeringen gør det enkelt at planlægge frokost nær Royal Arena, Bella Centret og Fields.
+
+## Passer PULS til en arbejdsfrokost i Ørestad?
+
+PULS serverer frokost på hverdage fra kl. 11. Mette H. (TripAdvisor) skriver: "Vi kom for en arbejdsfrokost og endte med at bestille dessert to gange. Personalet er opmærksomme og servicen er i top."
+
+### 1. Vælg frokost efter appetitten
+
+Frokost serveres mandag-fredag kl. 11-16 og lørdag-søndag kl. 10-16. Smørrebrød fås frem til kl. 15, med valg som Rødspætte, Avocado, Roast Beef og Æg & Rejer. Til en anden type frokost står blandt andet Ribeye, Chèvre Chaud, Cæsar og Puls Burger på kortet.
+
+### 2. Planlæg frokosten omkring mødet
+
+Læg frokostpausen inden for serveringstiden, og vælg retter ud fra, hvad der passer til selskabet. Mette H.s udtalelse på PULS' hjemmeside handler netop om en arbejdsfrokost.
+
+## Kan man få en drink sammen med frokosten?
+
+Ja. Ifølge drikkekortet er baren åben kl. 11.00-22.00. På drinkskortet er blandt andet Aperol Spritz, Limoncello Spritz, French 75, Gin & Tonic og Mojito.
+
+### 1. Vælg en drink til frokostbordet
+
+Start med at vælge, om frokosten skal følges af en cocktail eller en øl. Aperol Spritz og Limoncello Spritz er blandt drinkene på kortet, og French 75, Gin & Tonic og Mojito er også muligheder. Udvalget gør det nemt at lade frokosten fortsætte med en drink ved bordet.
+
+### 2. Bestil en pitcher til deling
+
+Hvis I sidder flere sammen, findes der pitchers på 1,5 liter med Mojito, Gin & Tonic eller Passion Martini til 345 kr. Baren er åben fra kl. 11, så den kan også være en del af en frokost, der begynder tidligt.
+
+### 3. Find en øl på kortet
+
+Til frokosten kan du også vælge øl, for eksempel Royal Pilsner, Anarkist Bloody Weizen eller Schiøtz Mørk Mumme. Det er en enkel måde at finde en drik til måltidet, hvis du ikke ønsker en cocktail.
+
+## Kan PULS også danne ramme om et selskab?
+
+Ja, PULS har tre selskabslokaler til op til 30, 50 eller 150 gæster. Menuen kan skræddersys fra en tre retters middag til buffet, og lokalerne har fuldt AV-udstyr.
+
+### 1. Vælg lokale efter selskabets størrelse
+
+Det lille lokale har plads til op til 30 gæster, mens det store lokale har plads til op til 50. Skal I samle flere, kan hele restauranten danne ramme om et selskab med op til 150 gæster. De tre muligheder gør det muligt at tage udgangspunkt i jeres gæsteliste, når I planlægger dagen.
+
+### 2. Beskriv hvilken menu der passer til jer
+
+Menuen kan skræddersys fra en tre retters middag til buffet. Tænk derfor over, hvilken type servering der passer til anledningen og jeres selskab.
+
+### 3. Send dato, gæsteantal og anledning
+
+Send datoen, antallet af gæster og anledningen, så vender PULS tilbage inden for 24 timer med et tilbud. Lyd, projektor og skærm er inkluderet i begge lokaler, så de kan bruges til præsentationer og taler.
+
+### Hvornår serverer PULS frokost?
+
+PULS serverer frokost mandag-fredag kl. 11-16 og lørdag-søndag kl. 10-16. Smørrebrød serveres til kl. 15.
+
+### Hvad koster smørrebrød på PULS?
+
+Ét stykke smørrebrød koster 85 kr., og to stykker koster 160 kr. Smørrebrød serveres til kl. 15.
+
+### Hvilke muligheder er der på frokostkortet ud over smørrebrød?
+
+Frokostkortet har klassikere som Ribeye, Ravioli, Club Sandwich, Pasta Trøffel og Snack Nachos. Der er også salater, burgere og retter fra havet.
+
+### Hvor langt er der fra PULS til Royal Arena og Bella Centret?
+
+PULS ligger 500 m fra Royal Arena og 600 m fra Bella Centret. Metro Ørestad ligger fem minutters gang fra restauranten.
+
+### Kan man bestille en drink til frokosten?
+
+Ja. Ifølge drikkekortet er baren åben kl. 11.00-22.00.
+
+### Skal man reservere, hvis man kommer som en større gruppe?
+
+Ja, grupper på mere end otte personer skal ringe eller reservere på forhånd. PULS kan kontaktes på +45 3262 6030.`
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
