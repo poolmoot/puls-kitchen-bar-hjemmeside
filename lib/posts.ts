@@ -1115,6 +1115,183 @@ Ja. Ifølge drikkekortet er baren åben kl. 11.00-22.00.
 
 Ja, grupper på mere end otte personer skal ringe eller reservere på forhånd. PULS kan kontaktes på +45 3262 6030.`
   },
+  {
+    slug: "selskabslokaler-i-orestad-puls-kitchen",
+    title: "Selskabslokaler i Ørestad | PULS Kitchen",
+    seoTitle: "Selskabslokaler i Ørestad | PULS Kitchen",
+    seoDescription:
+      "Planlæg et selskab hos PULS i Ørestad med lokaler til 30, 50 eller 150 gæster, skræddersyet menu og fuldt AV-udstyr.",
+    excerpt:
+      "Send dato, antal gæster og anledning for at få et tilbud inden for 24 timer.",
+    date: "2026-11-02",
+    tags: ["selskabslokaler Ørestad", "selskaber", "private arrangementer", "PULS Kitchen"],
+    authorName: "Puls Kitchen",
+    authorTitle: "head of conent",
+    coverImage:
+      "/images/blog/selskabslokaler-i-orestad-puls-kitchen.webp",
+    coverImageAlt: "Selskabslokaler i Ørestad | PULS Kitchen",
+    body: `Skal I samle familie, venner eller kolleger i Ørestad? Hos PULS Kitchen & Bar kan I vælge mellem tre selskabslokaler med plads til op til 30, 50 eller 150 gæster. Her får I rammer til både mindre sammenkomster og større fejringer.
+
+### Hvad kan du planlægge med PULS’ selskabslokaler?
+
+- Det lille lokale har plads til op til 30 gæster.
+- Det store lokale har plads til op til 50 gæster.
+- Hele restauranten kan danne ramme om selskaber med op til 150 gæster.
+- Lokalerne kan indrettes fleksibelt til arrangementet.
+- PULS tilbyder skræddersyet menu og fuldt AV-udstyr.
+
+## Hvilke selskabslokaler kan man vælge hos PULS i Ørestad?
+
+PULS har tre muligheder til selskaber: et lille lokale til op til 30 gæster, et stort lokale til op til 50 gæster og hele restauranten til op til 150 gæster.
+
+Lokalerne ligger hos PULS Kitchen & Bar på Arne Jacobsens Allé 9, 2300 København S. Den moderne bistro ligger ved vandet i Ørestad, tæt på Royal Arena, Bella Centret, Fields, Cabinn Metro Hotel og Metro Ørestad. I kan vælge en mindre, samlet ramme eller bruge hele restauranten til den store fejring.
+
+### Hvordan afklarer du, hvilke rammer arrangementet kræver?
+
+### 1. Saml gæstelisten
+
+Start med et realistisk antal gæster, så I kan se, hvilket lokale der passer til selskabet. Op til 30 gæster peger på det lille lokale, mens det store lokale rummer op til 50.
+
+### 2. Vælg mellem lokalet og hele restauranten
+
+Hvis I planlægger en større fejring, kan hele restauranten bruges til op til 150 gæster. Fleksibel opsætning gør det muligt at tilpasse rammerne til arrangementet.
+
+## Hvordan vælger man lokale efter selskabets størrelse?
+
+Vælg mellem lokalet til op til 30 gæster, lokalet til op til 50 eller hele restauranten til op til 150 gæster. Når du sender antal gæster sammen med dato og anledning, kan PULS vende tilbage med et tilbud.
+
+Lad selskabets størrelse være første pejlemærke, og tænk derefter over, hvilken slags dag I vil skabe. PULS holder selskaber til konfirmationer, fødselsdage, firmaarrangementer, barnedåb, mindehøjtider, julefrokost, teambuilding og private middage. Menuen kan skræddersys fra en tre retters middag til buffet.
+
+### Hvordan sender du en forespørgsel om selskab?
+
+### 3. Sammenhold antal gæster med kapaciteten
+
+Et selskab på op til 30 gæster kan tage udgangspunkt i det lille lokale, og op til 50 gæster i det store. Ved op til 150 gæster er hele restauranten en mulighed.
+
+### 4. Send dato, antal gæster og anledning
+
+Oplys dato, gæsteantal og anledning, når du sender forespørgslen til PULS. Så kan teamet vende tilbage med et tilbud inden for 24 timer.
+
+Fortæl også, hvis I ønsker AV-udstyr til arrangementet. PULS har fuldt AV-udstyr med lyd, projektor og skærm, og lokalerne kan sættes fleksibelt op. Det gør det lettere at samle selskabets ønsker i forespørgslen fra begyndelsen.
+
+## Hvilke anledninger kan fejres i selskabslokalerne?
+
+PULS' selskabslokaler kan danne ramme om både private fester og arrangementer for virksomheder. Her kan I holde alt fra konfirmation og fødselsdag til firmaarrangement, julefrokost eller privat middag.
+
+### 1. Beskriv anledningen
+
+Start med at afklare, hvad I samles om. PULS nævner konfirmationer, fødselsdage, barnedåb og mindehøjtider blandt de private anledninger, der kan fejres i selskabslokalerne.
+
+### 2. Saml kolleger eller gæster
+
+Lokalerne kan også bruges til firmaarrangementer og teambuilding. Julefrokoster og private middage er andre muligheder, når I ønsker at mødes omkring et måltid.
+
+### 3. Tænk over rammerne
+
+Fortæl, hvordan I gerne vil samles, så lokalet kan sættes fleksibelt op til arrangementet. PULS har tre selskabslokaler til op til 30, 50 og 150 gæster, så der er forskellige størrelser at vælge imellem.
+
+## Hvordan kan menuen tilpasses selskabet?
+
+PULS tilbyder en skræddersyet menu, der kan tilpasses fra en tre retters middag til buffet.
+
+### 1. Vælg serveringsform
+
+Afgør, om en tre retters middag eller buffet passer bedst til jeres selskab.
+
+### 2. Beskriv selskabets ønsker
+
+Skriv dato, antal gæster og anledning i jeres forespørgsel. De oplysninger giver PULS et grundlag for at udarbejde et tilbud til netop jeres selskab.
+
+### 3. Tænk drikkevarer med
+
+Til selskabet tilbyder PULS vin, fadøl, cocktails og alkoholfri drikke.
+
+## Hvilket AV-udstyr og hvilken service er der til rådighed?
+
+Selskabslokalerne har fuldt AV-udstyr med lyd, projektor og skærm. Lokalerne kan sættes fleksibelt op.
+
+### 1. Planlæg indslag og præsentationer
+
+Fortæl om taler, præsentationer eller andre indslag, når I planlægger arrangementet. Lyd, projektor og skærm er til rådighed. Tænk indslagene ind i dagens forløb, så serveringen passer til programmet.
+
+### 2. Saml opsætning og servering
+
+Beskriv, hvordan I gerne vil bruge lokalet, så opsætningen kan tilpasses selskabet. Drikkevarer kan omfatte vin, fadøl, cocktails og alkoholfri muligheder, så der er noget at vælge imellem til bordet.
+
+## Hvor ligger PULS, og hvilke steder er i nærheden?
+
+PULS ligger på Arne Jacobsens Allé 9, 2300 København S, tæt på Fields, Cabinn Metro Hotel og Metro Ørestad. Restauranten ligger 500 meter fra Royal Arena og 600 meter fra Bella Centret.
+
+### 3. Find vej til adressen
+
+Brug Arne Jacobsens Allé 9, 2300 København S som destination, når I planlægger ankomsten. Metro Ørestad ligger tæt på restauranten, og Fields samt Cabinn Metro Hotel er også i nærheden. Det gør adressen let at sætte i sammenhæng med dagens øvrige planer i Ørestad.
+
+### 4. Koordinér ankomst og parkering
+
+Fortæl gæsterne, at Royal Arena ligger 500 meter fra PULS, mens Bella Centret ligger 600 meter væk. Der er parkering ved restauranten, så gæster, der kommer i bil, har en mulighed tæt på selskabet. Med adressen samlet i invitationen bliver det enkelt at finde frem.
+
+## Hvordan sender man en forespørgsel på et selskab?
+
+Send dato, antal gæster og anledning til PULS for at få et tilbud. PULS vender tilbage inden for 24 timer.
+
+### 1. Skriv datoen for arrangementet
+
+Begynd forespørgslen med den dato, I ønsker at holde selskab. Hvis I allerede har valgt en dato, kan I skrive den direkte i beskeden.
+
+### 2. Oplys, hvor mange I bliver
+
+Der er tre muligheder: et lokale til op til 30 gæster, et større lokale til op til 50 gæster eller hele restauranten til op til 150 gæster. Antallet gør det lettere at finde de rette rammer fra begyndelsen.
+
+### 3. Fortæl, hvilken anledning I samles om
+
+Skriv kort, hvad I planlægger, for eksempel en fødselsdag, konfirmation, firmaarrangement eller privat middag. PULS holder også barnedåb, mindehøjtider, julefrokoster og teambuilding.
+
+### 4. Send forespørgslen til PULS
+
+PULS vender tilbage inden for 24 timer med et tilbud, så I kan komme videre med planlægningen. Har I et spørgsmål undervejs, kan I ringe på +45 3262 6030.
+
+## Hvilken stemning kan gæsterne glæde sig til?
+
+PULS er en moderne bistro i Ørestad med udtrykket “New Yorker Rawness with Parisian elegance.” Her kan I samles om mad og drikke i restaurantens rammer. Mette H. (TripAdvisor) skriver: “Vi kom for en arbejdsfrokost og endte med at bestille dessert to gange. Personalet er opmærksomme og servicen er i top.”
+
+### 1. Vælg et rum, der passer til jeres selskab
+
+Jeres gæster kan samles i et af de tre selskabslokaler eller i hele restauranten. Det lille lokale har plads til op til 30 gæster, det store lokale til op til 50, og hele restauranten kan rumme op til 150.
+
+### 2. Sammensæt mad og drikke til anledningen
+
+PULS tilbyder skræddersyet menu fra en tre retters middag til buffet. Til maden kan selskabet vælge vin, fadøl, cocktails og alkoholfri drikke, så serveringen passer til jeres plan. Når I sender forespørgslen, kan I beskrive, hvilken type måltid og drikke I forestiller jer.
+
+### 3. Planlæg indslag med AV-udstyret
+
+Selskabslokalerne har fuldt AV-udstyr med lyd, projektor og skærm. PULS har desuden et eget serveringsteam, så mad og drikke indgår i selskabets rammer.
+
+PULS ligger på Arne Jacobsens Allé 9, 2300 København S, 500 meter fra Royal Arena og 600 meter fra Bella Centret. Fields, Cabinn Metro Hotel og Metro Ørestad ligger også i nærheden, hvilket gør placeringen praktisk for gæster, der mødes i Ørestad.
+
+### Hvor mange gæster kan PULS' selskabslokaler rumme?
+
+PULS har lokaler til op til 30 og 50 gæster samt mulighed for at bruge hele restauranten til op til 150 gæster. Valget afhænger af selskabets størrelse.
+
+### Hvilket AV-udstyr er der i selskabslokalerne?
+
+Det gør det muligt at bruge AV-udstyret under arrangementet.
+
+### Kan menuen tilpasses til vores selskab?
+
+Ja, PULS tilbyder skræddersyede selskabsmenuer fra en tre retters middag til buffet. Der kan også indgå vin, fadøl, cocktails og alkoholfri drikke.
+
+### Hvilke slags arrangementer kan man holde hos PULS?
+
+Hos PULS kan I holde blandt andet konfirmationer, fødselsdage, firmaarrangementer, barnedåb, mindehøjtider, julefrokoster og teambuilding.
+
+### Hvor lang tid går der, før PULS svarer på en selskabsforespørgsel?
+
+PULS vender tilbage inden for 24 timer med et tilbud. Send dato, antal gæster og anledning, så forespørgslen indeholder de nødvendige oplysninger.
+
+### Hvor ligger PULS i forhold til Royal Arena og Bella Centret?
+
+Fields, Cabinn Metro Hotel og Metro Ørestad ligger også i nærheden.`
+  },
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
