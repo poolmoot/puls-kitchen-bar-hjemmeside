@@ -1292,6 +1292,303 @@ PULS vender tilbage inden for 24 timer med et tilbud. Send dato, antal gæster o
 
 Fields, Cabinn Metro Hotel og Metro Ørestad ligger også i nærheden.`
   },
+  {
+    slug: "italiensk-middag-i-orestad-pizza-pasta-og-smaretter-hos-puls-kitchen-bar",
+    title: "Italiensk middag i Ørestad: pizza, pasta og småretter hos PULS Kitchen & Bar",
+    seoTitle: "Italiensk middag i Ørestad hos PULS Kitchen & Bar",
+    seoDescription:
+      "Pizza, pasta og småretter på aftenkortet hos PULS Kitchen & Bar i Ørestad: retter, priser, åbningstider og booking fra restaurantens egen side.",
+    excerpt:
+      "Hvad står der af pizza, pasta og småretter på aftenkortet hos PULS Kitchen & Bar i Ørestad, hvad koster det, og hvordan booker du bord?",
+    date: "2026-11-02",
+    tags: ["italiensk middag", "restaurant", "bistro", "Ørestad", "PULS Kitchen"],
+    authorName: "Yusuf",
+    authorTitle: "head of conent",
+    coverImage:
+      "/images/blog/italiensk-middag-i-orestad-pizza-pasta-og-smaretter-hos-puls-kitchen-bar.webp",
+    coverImageAlt: "Italiensk middag i Ørestad: pizza, pasta og småretter hos PULS Kitchen & Bar",
+    body: `PULS Kitchen & Bar er Ørestads moderne bistro, ved vandet og få minutters gang fra Royal Arena. Aftenkortet har pizza, pasta og småretter med italienske navne, og det er dem, denne guide handler om, sammen med priser, åbningstider, booking og alt det, der ligger tæt på. Menukort og priser kan ændre sig, og restauranten tager forbehold for trykfejl og prisændringer, så se det aktuelle kort på pulskitchen.dk, før du går.
+
+## Hvad er der på aftenkortet hos PULS Kitchen & Bar, hvis jeg vil have italiensk mad?
+
+Aftenkortet har syv pizzaer, to pastaretter og flere småretter med italienske navne, blandt andet Carpaccio, Burrata og Bruschetta Al Pomodoro. Aftenkortet gælder fra kl. 16.00 alle dage.
+
+### Hvilke pizzaer står på aftenkortet?
+
+- Prosciutto, 145 kr.: tomat, frisk mozzarella, lufttørret skinke, rucola, pesto.
+- Piccante, 135 kr.: tomat, frisk mozzarella, ventricina (stærk krydret pølse).
+- Vitello, 135 kr.: tomat, frisk mozzarella, kalvekød, blue cheese, tuncreme, kapers.
+- Pepperoni, 135 kr.: tomat, frisk mozzarella, pepperoni.
+- Bianca, 135 kr.: frisk mozzarella, kartoffel, rosmarin, hvidløg, trøffelolie.
+- Rucola, 135 kr.: tomat, frisk mozzarella, rucola, cherrytomat, parmesan.
+- Margherita, 125 kr.: tomat, frisk mozzarella, basilikum.
+
+Alle syv pizzaer har frisk mozzarella. Margherita er den enkleste med tomat, mozzarella og basilikum til 125 kr., og Bianca er uden tomat, men med kartoffel, rosmarin, hvidløg og trøffelolie. Piccante har ventricina, en stærk krydret pølse, og Prosciutto har lufttørret skinke, rucola og pesto.
+
+### Hvilke pastaretter står på aftenkortet?
+
+- Pasta Trøffel, 165 kr.: linguine, svampe, cremet sauce med trøffel. Med grillet kyllingebryst koster det 30 kr. ekstra.
+- Ravioli, 165 kr.: ravioli, ricotta, spinat, salvie, frisk parmesan.
+
+### Hvilke småretter har aftenkortet?
+
+- Carpaccio, 135 kr.: tyndskåret kalveinderlår, olivenolie, rucola, pinjekerner, parmesan.
+- Charcuterie, 125 kr.: lufttørret skinke, chorizo, ost, kompot, brød.
+- Burrata, 125 kr.: cherrytomater, rucola, pesto, balsamico, basilikum.
+- Rejecocktail, 125 kr.: spæd salat, håndpillede rejer, avocado, caviart, thousand island dressing, citron, dild.
+- Snack Nachos, 95 kr.: cheddarost, jalapeños, chimichurri, guacamole, creme fraiche. Med grillet kyllingebryst koster det 30 kr. ekstra.
+- Bruschetta Al Pomodoro, 85 kr.: rustikt brød, tomat, hvidløg, basilikum, olivenolie. Med håndpillede rejer koster det 25 kr. ekstra.
+- Gratineret Gedeost, 75 kr.: valnød, honning, ristet brød chips.
+
+Er I to, kan I for eksempel dele en Burrata eller en Bruschetta Al Pomodoro først og derefter vælge pizza eller pasta. Det er en idé til en rolig aften, ikke en fast menu.
+
+## Hvilke andre hovedretter og desserter findes på aftenkortet?
+
+Aftenkortet har også kød og fisk, salater, burgere og desserter. Priserne nedenfor er de aktuelle menupriser.
+
+### Hvad står der under Kød & Fisk og Salater?
+
+- Ribeye, 325 kr.: kornfodret kødkvæg fra Uruguay, sprøde fritter, bearnaise sauce.
+- Braiseret Okse, 235 kr.: langtidsbraiseret oksetykkam, knuste kartofler med trøffel, sauterede svampe, perleløg, demi glace, hakkede mandler.
+- Fish N' Chips, 175 kr.: torsk, grove fritter, sauce tartar.
+- Moules Frites, 175 kr.: hvidvinsdampende blåmuslinger, cremet sauce, grove fritter, aioli.
+- Chèvre Chaud, 155 kr.: gedeost, grillet brød, syltede græskar, salat, balsamico glace, honning ristede valnødder, blåbær.
+- Cæsar, 155 kr.: klassisk cæsar, grillet kyllingebryst, papadums.
+
+### Hvilke burgere og desserter står på aftenkortet?
+
+- Puls Burger, 155 kr.: flammegrillet oksekød, brioche bolle, spæd salat, cheddar, løg, tomat, agurk, dijonnaise.
+- Spicy Burger, 155 kr.: flammegrillet oksekød, brioche bolle, spæd salat, cheddar, syltede jalapeños, spicy salsa, chilimayo.
+- Kylling Burger, 155 kr.: grillet kyllingebryst, brioche bolle, spæd salat, cheddar, løg, agurk, dijonnaise.
+- Veggie Burger, 155 kr.: kikærtebøf, brioche bolle, spæd salat, tomat, agurk, dijonnaise.
+- Crème Brûlée, 75 kr.: fløjlsblød vaniljecreme, sprød sukkerskorpe, friske bær.
+- Hvid Chokolade, 75 kr.: hvid chokolade, cream cheese, digestive, friske bær.
+- Crepe Suzette, 95 kr.: pandekager med karamel, appelsinsauce, vaniljeis, ristede mandler.
+
+Burgerne serveres med ovnbagte timiankartofler. Vil du hellere have grove fritter, koster det 10 kr. ekstra, og bacon koster 15 kr. ekstra. Til dem, der ønsker noget uden kød, har kortet Veggie Burger med kikærtebøf, og restauranten tilbyder altid vegetariske alternativer. Spørgsmål om allergener kan du rette til personalet.
+
+## Hvad kan jeg drikke til middagen hos PULS Kitchen & Bar?
+
+Aftenkortet har en liste, der hedder Start Aftenen med et Glas, og drikkekortet har cocktails, øl, vin og alkoholfri drikke. Baren byder på håndlavede cocktails, et bredt udvalg af vine og kolde øl, som du kan nyde ved baren eller ved bordet.
+
+### Hvad står der under Start Aftenen med et Glas?
+
+- Gin & Tonic Hendricks, 125 kr.
+- Aperol Spritz, 95 kr.
+- Gin & Tonic, 115 kr.
+- Limoncello, 95 kr.
+- Dark N' Stormy, 115 kr.
+- Doriac Rosé, 95 kr.
+- French 75, 115 kr.
+- Prosecco, 75 kr.
+
+På drikkekortet er Aperol Spritz sammensat af Aperol, prosecco, danskvand og appelsin, og Limoncello Spritz af limoncello, prosecco, danskvand og citron. French 75 er gin, citron, sukker og prosecco til 115 kr., og Mojito er lys rom, rørsukker, mynte og lime til 115 kr. Torsdag kl. 17 til 20 er der happy hour på cocktails. Er I flere, findes der pitchers på 1,5 L med Mojito, Gin & Tonic eller Passion Martini til 345 kr.
+
+### Hvilke italienske vine står på drikkekortet?
+
+- Pinot Grigio, Bertoldi, Garda, Italien: 85 kr. pr. glas eller 295 kr. pr. flaske.
+- Rosso Rossetti, Toscana, Italien: 85 kr. pr. glas eller 295 kr. pr. flaske.
+- Ripasso Superiore Semprebon, Valpolicella Classico, Italien: 100 kr. pr. glas eller 395 kr. pr. flaske.
+
+Drikkekortet beskriver Pinot Grigio som en frisk halvtør italiensk klassiker og Rosso Rossetti som charmerende og saftig med friske frugtige toner. Ud over de italienske vine har kortet bobler, rosé, hvidvin, rødvin og dessertvin.
+
+## Hvilket tilbehør, hvilken kaffe og hvilke alkoholfri drikke findes på menuen?
+
+Aftenkortet har en gruppe med tilbehør, og drikkekortet har øl, kaffe, sodavand, juice og shakes. Priserne nedenfor er de aktuelle menupriser.
+
+### Hvad står der under Ekstra på aftenkortet?
+
+- Sprøde Fritter, 55 kr., med dip.
+- Chicken Hotwings, 55 kr., med dip.
+- Ovnbagte Timiankartofler, 45 kr., med dip.
+- Sides & Snacks, 35 kr.: grøn salat, peber, saltede mandler, middelhavsolver.
+- Dip & Sauce, 10 kr.: ketchup, mayo, chili mayo, estragon mayo, aioli, trøffelmayo, bearnaise, svampesauce.
+
+### Hvilke øl og alkoholfri drikke er der på drikkekortet?
+
+- Øl i 0,33 L, 0,5 L og 1,5 L: Royal Classic, Royal Pilsner, Royal Blanche, Royal IPA og Birra Moretti koster 45 kr., 65 kr. og 175 kr.
+- Heineken 0,0% på flaske: 45 kr.
+- Sodavand 33 cl eller 50 cl: 42 kr. eller 55 kr. Der er blandt andet Pepsi, Pepsi Max, Faxe Kondi, Mirinda og Redbull.
+- Danskvand: 40 kr. pr. glas eller 55 kr. pr. kande.
+- Friskpresset juice, 55 kr.: Orange Juice, Pineapple Express (ananas, mynte, lime, æble), Mango Mama (mango, hindbær, appelsin, æble) og Ginger/Orange (appelsin, ingefær, citron, æble).
+- Shakes, 55 kr.: Choko, Espresso, Strawbana og Passion Fashion.
+
+### Hvilken kaffe og varm drik står på drikkekortet?
+
+- Kaffen er fra Lavazza.
+- Americano, 40 kr.
+- Caffé Latte, 45 kr. eller 50 kr.
+- Cappuccino, 42 kr. eller 48 kr.
+- Cortado, 35 kr. eller 40 kr.
+- Espresso og Macchiato, 30 kr. eller 35 kr.
+- Chai Latte, 45 kr., Varm Chokolade, 45 kr., Te, 35 kr., Iskaffe, 55 kr. og Irish Coffee, 95 kr.
+
+## Hvad koster pasta til frokost og til aften?
+
+Frokostkortet og aftenkortet har begge Pasta Trøffel og Ravioli, men priserne er forskellige. Frokostkortet serveres fra kl. 11.00 på hverdage og kl. 10.00 i weekenden, alle dage til kl. 16.00.
+
+### Hvad er forskellen i pris?
+
+- Pasta Trøffel: 135 kr. til frokost og 165 kr. om aftenen.
+- Ravioli: 155 kr. til frokost og 165 kr. om aftenen.
+- Pizza serveres fra aftenkortet, som gælder fra kl. 16.00.
+
+### Hvilke andre retter har forskellig pris til frokost og aften?
+
+- Ribeye: 275 kr. til frokost og 325 kr. om aftenen.
+- Fish N' Chips: 155 kr. til frokost og 175 kr. om aftenen.
+- Moules Frites: 155 kr. til frokost og 175 kr. om aftenen.
+- Puls Burger: 145 kr. til frokost og 155 kr. om aftenen.
+
+Vil du bruge sammenligningen til at vælge tidspunkt, så husk, at restauranten tager forbehold for prisændringer.
+
+### Hvad ellers står der på frokostkortet?
+
+- Smørrebrød, 1 stk. 85 kr. og 2 stk. 160 kr., frem til kl. 15.00: Rødspætte, Avocado, Lakse Rilette, Hønsesalat, Roast Beef, Kartoffelmad og Æg & Rejer.
+- Club Sandwich, 145 kr.: grillet kyllingebryst, spæd salat, tomat, rødløg, bacon, karry, ovnbagte timiankartofler, dijonnaise.
+- Chèvre Chaud og Cæsar, 145 kr. hver.
+- Calamari Fritti, 105 kr.: blæksprutteringe, grillet citron, urt, aioli, sauce tatar.
+- Snack Nachos, 95 kr.
+
+Smørrebrødet hører til frokost, mens pizza og pasta har deres plads på aftenkortet, så hvad du vil have, afgør også, hvornår du booker.
+
+## Hvornår kan jeg spise middag hos PULS Kitchen & Bar?
+
+Aftenkortet gælder fra kl. 16.00 alle dage, og køkkenet lukker kl. 21.45 mandag til torsdag, kl. 22.00 fredag og lørdag og kl. 21.00 søndag.
+
+### Hvilke åbningstider har restauranten?
+
+- Mandag til torsdag: kl. 11.00 til 22.00.
+- Fredag: kl. 11.00 til 24.00.
+- Lørdag: kl. 10.00 til 24.00.
+- Søndag: kl. 10.00 til 22.00.
+
+Restauranten ligger på Arne Jacobsens Allé 9, 2300 København S, og telefonnummeret er +45 3262 6030.
+
+## Hvordan booker jeg bord til to hos PULS Kitchen & Bar?
+
+Du booker i restaurantens bookingsystem EasyTable via knappen Reservation på pulskitchen.dk, eller du kan ringe på +45 3262 6030.
+
+### 1. Åbn bookingsiden
+
+Gå til pulskitchen.dk og tryk på Reservation. Du kommer til bookingsiden hos EasyTable.
+
+### 2. Vælg type og antal gæster
+
+Bookingsiden starter med typen: Brunch, Frokost, Dinner eller Koncert - Royal Arena. Til en aftenmiddag vælger du Dinner. Derefter angiver du antal gæster.
+
+### 3. Vælg dato og tid
+
+Vælg dato og tid. Husk, at køkkenet lukker kl. 21.45 mandag til torsdag, kl. 22.00 fredag og lørdag og kl. 21.00 søndag.
+
+### 4. Forudbestilling og bekræftelse
+
+Bookingen har et trin til forudbestilling, før du bekræfter. Når du har gennemført bookingen, modtager du en bekræftelse pr. e-mail.
+
+### Hvad skal jeg vide om ændringer og grupper?
+
+- Restauranten beder om besked senest 24 timer før, hvis du vil ændre eller aflyse.
+- Kommer I flere end 8 personer, så ring eller lav en reservation på forhånd.
+- Du kan betale i restauranten med Visa, Mastercard, MobilePay eller kontanter.
+- Vil du hellere spise hjemme, kan du bestille take-away.
+
+## Hvad ligger tæt på PULS Kitchen & Bar i Ørestad?
+
+PULS ligger ved vandet, i gåafstand fra Royal Arena, Fields og Cabinn Metro Hotel og 5 minutter fra Metro Ørestad.
+
+### Hvor langt er der til de nærmeste steder?
+
+- Royal Arena: 500 m, 5 til 7 minutters gang.
+- Bella Centret: 600 m, cirka 10 til 12 minutters gang.
+- Fields Shopping Center og Cabinn Metro Hotel: i gåafstand.
+- Metro Ørestad: 5 minutter.
+
+Der er en stor parkeringsplads på den anden side af gaden. Restauranten nævner også god parkeringsmulighed i Ørestad direkte ved restauranten.
+
+## Hvor mange er der plads til hos PULS Kitchen & Bar, og er der terrasse?
+
+Ja, der er terrasse. Restauranten har plads til 140 gæster indendørs og 150 på den store træterrasse, og den ligger ved vandet.
+
+Restauranten beskriver sig selv som det sted, man vender tilbage til, hvad enten det er brunch om lørdagen, frokost på en travl hverdag eller aftensmad inden en koncert i Royal Arena. Lørdag og søndag kl. 10.00 til 14.00 er der byg-selv brunch ad libitum, altså så meget du kan spise, for 195 kr. inklusive kaffe, juice og vand.
+
+## Hvad siger gæsterne om PULS Kitchen & Bar?
+
+På forsiden af pulskitchen.dk står tre gæsteanmeldelser. Her er to af dem som gæsternes egne ord.
+
+Sarah M. (Food blogger) skriver: "Hver ret var frisk, smagfuld og smukt anrettet. En af de bedste spiseoplevelser, jeg har haft i København."
+
+Mette H. (TripAdvisor) skriver: "Vi kom for en arbejdsfrokost og endte med at bestille dessert to gange. Personalet er opmærksomme og servicen er i top."
+
+## Kan jeg spise middag hos PULS Kitchen & Bar før en koncert i Royal Arena?
+
+Ja. Restauranten har en koncert- og konferencemenu, som kun serveres på udvalgte koncert- og konferencedage, og den anbefaler at ankomme senest 1,5 til 2 timer før koncertstart.
+
+### Hvad står på koncert- og konferencemenuen?
+
+- Ribeye Steak, 325 kr.: Ribeye 300g, sprøde fritter, bearnaise.
+- Pasta Trøffel, 195 kr.: linguine, grillet kylling, svampe, trøffel, cremet sauce.
+- Puls Burger, 180 kr.: flammegrillet oksekød, bacon, brioche bolle, spæd salat, cheddar, løg, tomat, agurk, fritter, dijonnaise.
+- Fish N' Chips, 175 kr.: torsk, grove fritter, sauce tartar.
+- Chèvre Chaud Salat, 155 kr.: gedeost, grillet brød, syltede græskar, spæd salat, balsamico glace, honning ristede valnødder, friske bær.
+- Kokken Anbefaler: Ribeye Steak med sprøde fritter og bearnaise plus Crème Brûlée, samlet pris 375 kr.
+- Crème Brûlée, 75 kr.
+
+Restauranten skriver, at den altid har plads på koncertaftener, og anbefaler at booke på forhånd. Bookingsiden har en særskilt type, Koncert - Royal Arena. Grupper kan skrive til info@pulskitchen.dk. Det fulde bar- og vinkort er tilgængeligt hele aftenen.
+
+## Kan jeg holde et selskab hos PULS Kitchen & Bar?
+
+Ja, PULS har tre selskabslokaler: Lille lokale til op til 30 gæster, Stort lokale til op til 50 gæster og hele restauranten til op til 150 gæster. Alle tre har fuldt AV-udstyr.
+
+### Hvad er inkluderet i et selskab?
+
+- Skræddersyet menu fra tre retters middag til buffet, tilpasset anledning og budget.
+- Fuldt AV-udstyr med lyd, projektor og skærm.
+- Eget serveringsteam, der kun er jeres for aftenen.
+- Drikkevarer som pakke eller løbende fra baren: vin, fadøl, cocktails og alkoholfri.
+- Bordopsætning efter aftale, for eksempel reception, teater eller rundt bord.
+
+Restauranten nævner konfirmationer, fødselsdage, firmaarrangementer, barnedåb, mindehøjtider, julefrokost, teambuilding og private middage. Send dato, antal gæster og anledning til info@pulskitchen.dk eller ring på +45 3262 6030, så vender restauranten tilbage inden for 24 timer med et tilbud. Ved selskaber indgås der en separat aftale om menuer, pris, depositum og aflysningstidspunkter.
+
+## Kan jeg give en middag hos PULS Kitchen & Bar i gave?
+
+Ja, restauranten sælger gavekort, som dækker alt på menuen, blandt andet aftensmad, cocktails og vin.
+
+### Hvad siger restauranten om gavekortet?
+
+- Du vælger selv beløbet, uden minimum eller maksimum.
+- Gavekortet modtages straks på mail og kan printes eller vises fra telefonen.
+- Det købes online via restaurantens partner Lifepeaks.
+
+### Er PULS Kitchen & Bar en italiensk restaurant?
+
+Restauranten er Ørestads moderne bistro med sloganet "New Yorker Rawness with Parisian elegance". Aftenkortet har syv pizzaer, to pastaretter og småretter som Burrata og Bruschetta Al Pomodoro ved siden af ribeye, burgere og fish n' chips.
+
+### Hvad koster en pizza på aftenkortet?
+
+Pizzaerne koster mellem 125 kr. og 145 kr. Margherita koster 125 kr., og Prosciutto koster 145 kr.
+
+### Er der vegetariske retter?
+
+Ja, restauranten tilbyder altid vegetariske alternativer, og aftenkortet har blandt andet en Veggie Burger med kikærtebøf. Fortæl gerne om allergier, når du booker.
+
+### Hvad er åbningstiderne?
+
+Mandag til torsdag kl. 11.00 til 22.00, fredag kl. 11.00 til 24.00, lørdag kl. 10.00 til 24.00 og søndag kl. 10.00 til 22.00. Aftenkortet gælder fra kl. 16.00.
+
+### Hvordan reserverer jeg bord?
+
+Brug knappen Reservation på pulskitchen.dk og vælg typen Dinner, eller ring på +45 3262 6030. Kommer I flere end 8 personer, beder restauranten om, at I ringer eller laver en reservation på forhånd.
+
+### Er der parkering i nærheden?
+
+Ja, der er en stor parkeringsplads på den anden side af gaden. Metro Ørestad ligger 5 minutter fra restauranten.
+
+### Kan jeg holde selskab hos PULS Kitchen & Bar?
+
+Ja, der er tre selskabslokaler med plads til op til 30, 50 og 150 gæster. Send en forespørgsel med dato, antal gæster og anledning til info@pulskitchen.dk.
+
+Klar til middag? [Book bord](https://book.easytable.com/book/?id=1214a&lang=auto) til middag hos PULS Kitchen & Bar via restaurantens bookingside.`
+  }
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
