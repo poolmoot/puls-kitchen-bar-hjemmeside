@@ -1588,6 +1588,166 @@ Ja, der er en stor parkeringsplads på den anden side af gaden. Metro Ørestad l
 Ja, der er tre selskabslokaler med plads til op til 30, 50 og 150 gæster. Send en forespørgsel med dato, antal gæster og anledning til info@pulskitchen.dk.
 
 Klar til middag? [Book bord](https://book.easytable.com/book/?id=1214a&lang=auto) til middag hos PULS Kitchen & Bar via restaurantens bookingside.`
+  },
+  {
+    slug: "brunch-for-to-i-orestad-byg-selv-del-favoritter-og-book-bord",
+    title: "Brunch for to i Ørestad: byg selv, del favoritter og book bord",
+    seoTitle: "Brunch for to i Ørestad | PULS Kitchen",
+    seoDescription:
+      "Vælg Byg-Selv-Brunch på hverdage eller AD LIBITUM i weekenden med kaffe, te, juice og lemonade.",
+    excerpt:
+      "Vælg mellem Byg-Selv-Brunch på hverdage og Byg-Selv AD LIBITUM i weekenden.",
+    date: "2026-11-03",
+    tags: ["brunch for to", "brunch i Ørestad", "PULS Kitchen", "byg selv brunch"],
+    authorName: "Puls Kitchen",
+    authorTitle: "head of conent",
+    coverImage:
+      "/images/blog/brunch-for-to-i-orestad-byg-selv-del-favoritter-og-book-bord.webp",
+    coverImageAlt: "Brunch for to i Ørestad: byg selv, del favoritter og book bord",
+    body: `En god brunch for to begynder med et enkelt valg: hvilken dag passer jer, og hvor sultne er I? Hos PULS Kitchen kan I vælge Byg-Selv-Brunch på hverdage eller Byg-Selv AD LIBITUM i weekenden. Her får I overblik over tidspunkter, priser og brunchbordets favoritter, så I kan finde den løsning, der passer til jeres formiddag.
+
+### Hvad skal I vide, før I vælger brunch for to?
+
+- Byg-Selv-Brunch serveres mandag-fredag kl. 11-14.
+- En ekstra ret til hverdagsbrunchen koster 35 kr.
+- Byg-Selv AD LIBITUM serveres lørdag-søndag kl. 10-14 og koster 195 kr. pr. person.
+- Weekendens brunch inkluderer kaffe, te, juice og hjemmelavet lemonade.
+
+## Hvilken brunch passer bedst til to?
+
+Begynd med kalenderen. På en hverdag sammensætter I brunchen efter et bestemt antal retter, og i weekenden kan I nyde ad libitum-brunch med drikkevarer inkluderet. De to muligheder giver jer hver sin måde at mødes om en brunch på.
+
+### 1. Vælg dagen, der passer jer
+
+Byg-Selv-Brunch serveres mandag-fredag kl. 11-14. I weekenden serveres Byg-Selv AD LIBITUM lørdag-søndag kl. 10-14. Vælg den serveringstid, der passer bedst ind i jeres planer, og tag derefter stilling til brunchformen.
+
+### 2. Aftal, hvor meget I har lyst til
+
+I weekenden vælger I ad libitum til 195 kr. pr. person, inklusive kaffe, te, juice og hjemmelavet lemonade.
+
+PULS Kitchen ligger ved vandet på Arne Jacobsens Allé 9, 2300 København S. Her kan I mødes om en brunch i Ørestads moderne bistro, uanset om I vælger en hverdag eller starter weekenden sammen.
+
+## Hvordan vælger I retter til hverdagsbrunchen?
+
+Til Byg-Selv-Brunch på hverdage vælger hver gæst enten 3 eller 5 retter.
+
+Det giver jer plads til at vælge efter hver jeres appetit. Hvis I får lyst til mere, kan I tilføje en ekstra ret.
+
+### 1. Sæt jeres brunch sammen hver for sig
+
+### 2. Giv plads til en ekstra ret
+
+Den mulighed kan I bruge, hvis I gerne vil føje lidt mere til jeres valg af 3 eller 5 retter. Byg-Selv-Brunch serveres mandag-fredag kl. 11-14.
+
+### 3. Find inspiration i brunchbordet
+
+Brunchbordet byder på croissanter, røræg og bacon, laksemousse, udvalgte oste, avocado, frisk frugt og pandekager. Tal om, hvad der frister jer hver især, når I sammensætter jeres brunch.
+
+Når I har valgt dag og antal retter, er de vigtigste brunchdetaljer på plads.
+
+## Hvad får I med weekendens AD LIBITUM-brunch?
+
+Byg-Selv AD LIBITUM serveres lørdag og søndag kl. 10-14 til 195 kr. pr. person. Prisen inkluderer kaffe, te, juice og hjemmelavet lemonade, så I har både brunch og drikkevarer med i samme pris.
+
+### 1. Vælg weekendens brunchtid
+
+Planlæg jeres besøg lørdag eller søndag mellem kl. 10 og 14. Prisen er 195 kr. pr. person, og kaffe, te, juice samt hjemmelavet lemonade er inkluderet.
+
+### 2. Gå på opdagelse ved brunchbordet
+
+Brunchbordet byder på croissanter, røræg og bacon, laksemousse, udvalgte oste, avocado, frisk frugt og pandekager.
+
+## Hvilke favoritter kan I finde på brunchbordet?
+
+Her kan I sammensætte et måltid med flere forskellige smage.
+
+### 1. Begynd med de salte valg
+
+Croissanter, røræg og bacon giver jer klassiske brunchvalg, mens laksemousse, udvalgte oste og avocado tilbyder andre smage ved bordet. I kan vælge forskellige favoritter og dele indtrykkene undervejs. På den måde bliver brunchbordets udvalg en del af måltidet sammen.
+
+### 2. Rund af med frugt og pandekager
+
+Frisk frugt og pandekager giver brunchbordet et sødt indslag. I kan vælge dem som en del af brunchen eller gemme dem til senere i måltidet. Med kaffe, te, juice og hjemmelavet lemonade inkluderet i weekendens pris er drikkevarerne også på plads.
+
+## PULS Kitchen
+
+PULS Kitchen ligger på Arne Jacobsens Allé 9, 2300 København S, nær Fields, Metro Ørestad og Cabinn Metro Hotel. Royal Arena ligger 500 meter væk, og Bella Centret ligger 600 meter fra restauranten.
+
+### 1. Læg brunchen ind mellem dagens planer
+
+Hvis jeres dag går omkring Fields, kan PULS Kitchen være et sted at mødes over brunch. Restauranten ligger også nær Metro Ørestad og Cabinn Metro Hotel. Adressen gør det let at finde frem til et måltid i Ørestad, uanset om I bor i området eller er på besøg.
+
+### 2. Brug afstandene til at planlægge besøget
+
+Royal Arena ligger 500 meter fra PULS Kitchen, og Bella Centret ligger 600 meter væk. Hvis jeres planer også omfatter et besøg ved et af stederne, kan I tage beliggenheden med i dagens plan. PULS Kitchen ligger på Arne Jacobsens Allé 9, 2300 København S.
+
+## Kan I nyde en drink sammen med eller efter brunchen?
+
+Ja, PULS Kitchen har en bar med cocktails og klassiske drinks, og baren er åben kl. 11-22. På kortet finder I blandt andet Aperol Spritz, Limoncello Spritz, French 75, Gin & Tonic og Mojito.
+
+### 1. Vælg en drink til jeres besøg
+
+Aftal, om I har lyst til en cocktail eller en klassisk drink sammen med eller efter brunchen. Mulighederne omfatter Aperol Spritz, Limoncello Spritz, French 75, Gin & Tonic og Mojito. Baren har også pitchers på 1,5 L, hvis I vil dele en kande.
+
+### 2. Planlæg efter barens åbningstid
+
+Baren er åben kl. 11-22. Torsdag er der happy hour kl. 17-20. I kan derfor lægge en drink ind senere på dagen, hvis jeres brunch er en del af en længere dag i Ørestad.
+
+## Hvordan kan brunch for to blive en hyggelig spiseoplevelse?
+
+Her kan I vælge jeres brunchform og nyde et måltid sammen i rolige rammer.
+
+### 1. Find en plads, der passer til jeres brunch
+
+PULS har plads til 140 gæster indendørs og 150 på den store træterrasse. I kan vælge at sidde indenfor eller nyde udeserveringen, når det passer til jeres besøg. Restauranten ligger ved vandet i Ørestad.
+
+### 2. Sammensæt brunchen efter jeres lyst
+
+Brunchbordet byder på croissanter, røræg og bacon, laksemousse, udvalgte oste, avocado, frisk frugt og pandekager. På hverdage kan I vælge Byg-Selv-Brunch, mens weekenden byder på Byg-Selv AD LIBITUM. Vælg den form, der passer til jeres appetit og den tid, I har lyst til at bruge sammen.
+
+### 3. Gør brunchen til en anledning til at blive hængende
+
+Brunch kan være en pause på en hverdag eller en del af en weekend sammen. PULS ligger nær Fields, Cabinn Metro Hotel og Metro Ørestad, og Royal Arena og Bella Centret ligger også i nærheden. Gæsten Sarah M. skriver: "Hver ret var frisk, smagfuld og smukt anrettet. En af de bedste spiseoplevelser, jeg har haft i København."
+
+## Hvornår skal I vælge hverdag eller weekend til brunchen?
+
+Vælg en hverdag, hvis I vil sammensætte en Byg-Selv-Brunch med 3 eller 5 retter. Vælg lørdag eller søndag, hvis I foretrækker Byg-Selv AD LIBITUM med kaffe, te, juice og hjemmelavet lemonade inkluderet.
+
+### 4. Vælg hverdagsbrunch, hvis I ønsker et bestemt antal retter
+
+Byg-Selv-Brunch serveres mandag til fredag kl. 11-14. I kan vælge 3 retter til 95 kr. pr. person eller 5 retter til 145 kr. pr. person. En ekstra ret koster 35 kr. Aftal, hvor meget I har lyst til, og vælg hver jeres antal, hvis det passer jer bedst.
+
+### 5. Vælg weekendens ad libitum, hvis I vil have drikkevarer med
+
+Byg-Selv AD LIBITUM serveres lørdag og søndag kl. 10-14 og koster 195 kr. pr. person. Ad libitum betyder, at I kan spise så meget, I kan. Kaffe, te, juice og hjemmelavet lemonade er inkluderet i prisen.
+
+### 6. Vælg tidspunkt og brunchform
+
+Start med at beslutte, om I vil mødes på en hverdag eller i weekenden. Hverdagsbrunchen passer til jer, der ønsker et bestemt antal retter, mens weekendens AD LIBITUM inkluderer drikkevarer. Når I har valgt dag og brunchform, kan I reservere bord og glæde jer til at vælge fra brunchbordet.
+
+### Hvad koster brunch for to hos PULS Kitchen?
+
+I weekenden koster Byg-Selv AD LIBITUM 195 kr. pr. person.
+
+### Hvornår serveres brunch hos PULS Kitchen?
+
+Hverdagsbrunch serveres mandag-fredag kl. 11-14. Weekendens Byg-Selv AD LIBITUM serveres lørdag-søndag kl. 10-14.
+
+### Hvad er inkluderet i weekendens brunch?
+
+Weekendens Byg-Selv AD LIBITUM inkluderer kaffe, te, juice og hjemmelavet lemonade. Den koster 195 kr. pr. person.
+
+### Hvilke retter er på brunchbordet?
+
+Brunchbordet byder på croissanter, røræg og bacon, laksemousse, udvalgte oste, avocado, frisk frugt og pandekager.
+
+### Hvor ligger PULS Kitchen i Ørestad?
+
+PULS Kitchen ligger på Arne Jacobsens Allé 9, 2300 København S, nær Fields, Metro Ørestad og Cabinn Metro Hotel.
+
+### Kan I få en drink hos PULS Kitchen?
+
+Ja, baren er åben kl. 11-22 og serverer blandt andet Aperol Spritz, Limoncello Spritz, French 75, Gin & Tonic og Mojito.`
   }
 ];
 
