@@ -210,11 +210,11 @@ export default function BrunchPage() {
                 <h3 className="font-sans font-semibold text-xs tracking-[0.22em] uppercase text-forest mb-6">Klassikere <span className="text-stone font-normal normal-case tracking-normal">· Classics</span></h3>
                 <div className="divide-y divide-border-col">
                   {[
-                    { da: "Ribeye", price: "275,-", desc: "Kornfodret kødkvæg fra Uruguay · Sprøde fritter · Bearnaise sauce", descEn: "Grain-fed beef from Uruguay · Crispy fries · Bearnaise sauce" },
+                    { da: "Ribeye", price: "325,-", desc: "Kornfodret kødkvæg fra Uruguay · Sprøde fritter · Bearnaise sauce", descEn: "Grain-fed beef from Uruguay · Crispy fries · Bearnaise sauce" },
                     { da: "Ravioli", price: "155,-", desc: "Ravioli · Ricotta · Spinat · Salvie · Frisk parmesan", descEn: "Ravioli · Ricotta · Spinach · Sage · Fresh parmesan" },
-                    { da: "Club Sandwich", price: "145,-", desc: "Grillet kyllingebryst · Spæd salat · Tomat · Rødløg · Bacon · Karry · Ovnbagte timiankartofler · Dijonnaise", descEn: "Grilled chicken breast · Baby salad · Tomato · Red onion · Bacon · Curry · Oven baked thyme potatoes · Dijonnaise" },
-                    { da: "Pasta Trøffel", en: "Pasta Truffle", price: "135,-", desc: "Linguine · Svampe · Trøffel · Cremet sauce", descEn: "Linguine · Mushrooms · Truffle · Creamy sauce", addon: "+ Grillet kyllingebryst 30,-" },
-                    { da: "Snack Nachos", price: "95,-", desc: "Cheddarost · Jalapeños · Chimichurri · Guacamole · Creme fraiche", descEn: "Cheddar cheese · Jalapeños · Chimichurri · Guacamole · Sour cream", addon: "+ Grillet kyllingebryst 30,-" },
+                    { da: "Club Sandwich", price: "155,-", desc: "Grillet kyllingebryst · Spæd salat · Tomat · Rødløg · Bacon · Karry · Ovnbagte timiankartofler · Dijonnaise", descEn: "Grilled chicken breast · Baby salad · Tomato · Red onion · Bacon · Curry · Oven baked thyme potatoes · Dijonnaise" },
+                    { da: "Pasta Trøffel", en: "Pasta Truffle", price: "155,-", desc: "Linguine · Svampe · Trøffel · Cremet sauce", descEn: "Linguine · Mushrooms · Truffle · Creamy sauce", addon: "+ Grillet kyllingebryst 30,-" },
+                    { da: "Snack Nachos", price: "115,-", desc: "Cheddarost · Jalapeños · Chimichurri · Guacamole · Creme fraiche", descEn: "Cheddar cheese · Jalapeños · Chimichurri · Guacamole · Sour cream", addon: "+ Crispy kylling 30,-" },
                   ].map((item) => (
                     <div key={item.da} className="py-5 flex gap-4 justify-between">
                       <div className="flex-1">
@@ -236,8 +236,8 @@ export default function BrunchPage() {
                 <h3 className="font-sans font-semibold text-xs tracking-[0.22em] uppercase text-forest mb-6">Salater <span className="text-stone font-normal normal-case tracking-normal">· Salads</span></h3>
                 <div className="divide-y divide-border-col">
                   {[
-                    { da: "Chèvre Chaud", price: "145,-", desc: "Gedeost · Grillet brød · Syltede græskar · Salat · Balsamico glace · Honning ristede valnødder · Blåbær", descEn: "Goat cheese · Grilled bread · Pickled pumpkin · Salad · Balsamic glace · Honey roasted walnuts · Blueberries" },
-                    { da: "Cæsar", en: "Caesar", price: "145,-", desc: "Klassisk cæsar · Grillet kyllingebryst · Papadums", descEn: "Classic Caesar · Grilled Chicken Breast · Papadums" },
+                    { da: "Chèvre Chaud", price: "155,-", desc: "Gedeost · Grillet brød · Syltede græskar · Salat · Balsamico glace · Honning ristede valnødder · Blåbær", descEn: "Goat cheese · Grilled bread · Pickled pumpkin · Salad · Balsamic glace · Honey roasted walnuts · Blueberries" },
+                    { da: "Cæsar", en: "Caesar", price: "155,-", desc: "Klassisk cæsar · Crispy kylling · Papadums", descEn: "Classic Caesar · Crispy chicken · Papadums" },
                   ].map((item) => (
                     <div key={item.da} className="py-5 flex gap-4 justify-between">
                       <div className="flex-1">
@@ -260,14 +260,14 @@ export default function BrunchPage() {
                 <p className="text-xs text-stone mb-6">All burgers are served with oven baked thyme potatoes. Want coarse fries instead +10,-</p>
                 <div className="divide-y divide-border-col">
                   {[
-                    { da: "Puls Burger", price: "145,-", desc: "Flammegrillet oksekød · Brioche bolle · Spæd salat · Cheddar · Løg · Tomat · Agurk · Dijonnaise", descEn: "Flame grilled beef · Brioche bun · Baby salad · Cheddar · Onions · Tomato · Cucumber · Dijonnaise", addon: "+ Bacon 15,-" },
-                    { da: "Spicy Burger", price: "145,-", desc: "Flammegrillet oksekød · Brioche bolle · Spæd salat · Cheddar · Syltede jalapeños · Spicy salsa · Chilimayo", descEn: "Flame grilled beef · Brioche bun · Baby salad · Cheddar · Pickled jalapeños · Spicy salsa · Chili mayo", addon: "+ Bacon 15,-" },
-                    { da: "Kylling Burger", en: "Chicken Burger", price: "145,-", desc: "Grillet kyllingebryst · Brioche bolle · Spæd salat · Cheddar · Løg · Agurk · Dijonnaise", descEn: "Grilled chicken breast · Brioche bun · Baby salad · Cheddar · Onions · Cucumber · Dijonnaise", addon: "+ Bacon 15,-" },
-                    { da: "Veggie Burger", price: "145,-", desc: "Kikærtebøf · Brioche bolle · Spæd salat · Tomat · Agurk · Dijonnaise", descEn: "Chickpea steak · Brioche bun · Baby salad · Tomato · Cucumber · Dijonnaise" },
+                    { da: "Puls Burger", price: "155,-", desc: "Flammegrillet oksekød · Brioche bolle · Spæd salat · Cheddar · Løg · Tomat · Agurk · Dijonnaise", descEn: "Flame grilled beef · Brioche bun · Baby salad · Cheddar · Onions · Tomato · Cucumber · Dijonnaise", addon: "+ Bacon 15,-" },
+                    { da: "Spicy Burger", price: "155,-", desc: "Flammegrillet oksekød · Brioche bolle · Spæd salat · Cheddar · Syltede jalapeños · Spicy salsa · Chilimayo", descEn: "Flame grilled beef · Brioche bun · Baby salad · Cheddar · Pickled jalapeños · Spicy salsa · Chili mayo", addon: "+ Bacon 15,-" },
+                    { da: "Crispy Chicken", price: "155,-", desc: "Crispy kylling · Brioche bolle · Spæd salat · Cheddar · Løg · Tomat · Agurk · Dijonnaise", descEn: "Crispy chicken · Brioche bun · Baby salad · Cheddar · Onions · Tomato · Cucumber · Dijonnaise", addon: "+ Bacon 15,-" },
+                    { da: "Veggie Burger", price: "155,-", desc: "Kikærtebøf · Brioche bolle · Spæd salat · Tomat · Agurk · Dijonnaise", descEn: "Chickpea steak · Brioche bun · Baby salad · Tomato · Cucumber · Dijonnaise" },
                   ].map((item) => (
                     <div key={item.da} className="py-5 flex gap-4 justify-between">
                       <div className="flex-1">
-                        <p className="font-semibold text-forest text-sm">{item.da}{item.en && <span className="font-normal text-stone"> · {item.en}</span>}</p>
+                        <p className="font-semibold text-forest text-sm">{item.da}</p>
                         <p className="text-xs text-forest/55 mt-1">{item.desc}</p>
                         <p className="text-xs text-stone mt-0.5">{item.descEn}</p>
                         {item.addon && <p className="text-xs text-gold mt-1">{item.addon}</p>}
@@ -285,9 +285,8 @@ export default function BrunchPage() {
                 <h3 className="font-sans font-semibold text-xs tracking-[0.22em] uppercase text-forest mb-6">Fra Havet <span className="text-stone font-normal normal-case tracking-normal">· From the Sea</span></h3>
                 <div className="divide-y divide-border-col">
                   {[
-                    { da: "Moules Frites", price: "155,-", desc: "Hvidvinsdampede blåmuslinger · Cremet sauce · Grove fritter · Aioli", descEn: "White wine steamed mussels · Creamy sauce · Coarse fries · Aioli" },
-                    { da: "Fish N' Chips", price: "155,-", desc: "Torsk · Grove fritter · Sauce tartar", descEn: "Cod · Coarse fritters · Tartar sauce" },
-                    { da: "Calamari Fritti", price: "105,-", desc: "Blæksprutteringe · Grillet citron · Urt · Aioli · Sauce tatar", descEn: "Octopus rings · Grilled lemon · Herb · Aioli · Tartar sauce" },
+                    { da: "Moules Frites", price: "165,-", desc: "Hvidvinsdampede blåmuslinger · Cremet sauce · Grove fritter · Aioli", descEn: "White wine steamed mussels · Creamy sauce · Coarse fries · Aioli" },
+                    { da: "Fish N' Chips", price: "165,-", desc: "Torsk · Grove fritter · Sauce tartar", descEn: "Cod · Coarse fritters · Tartar sauce" },
                   ].map((item) => (
                     <div key={item.da} className="py-5 flex gap-4 justify-between">
                       <div className="flex-1">
@@ -333,9 +332,9 @@ export default function BrunchPage() {
                 <h3 className="font-sans font-semibold text-xs tracking-[0.22em] uppercase text-forest mb-6">Dessert</h3>
                 <div className="divide-y divide-border-col">
                   {[
-                    { da: "Crepe Suzette", price: "95,-", desc: "Pandekager m. karamel · Appelsinsauce · Vaniljeis · Ristede mandler", descEn: "Pancakes w. caramel · Orange sauce · Vanilla ice cream · Roasted almonds" },
-                    { da: "Crème Brûlée", price: "75,-", desc: "Fløjlsblød vaniljecreme · Sprød sukkerskorpe · Friske bær", descEn: "Soft vanilla cream · Crispy sugar crust · Fresh berries" },
-                    { da: "Hvid Chokolade", en: "White Chocolate", price: "75,-", desc: "Hvid chokolade · Cream cheese · Digestive · Friske bær", descEn: "White chocolate · Cream cheese · Digestive · Fresh berries" },
+                    { da: "Crème Brûlée", price: "85,-", desc: "Fløjlsblød vaniljecreme · Sprød sukkerskorpe · Friske bær", descEn: "Soft vanilla cream · Crispy sugar crust · Fresh berries" },
+                    { da: "Vanilje Panna Cotta", en: "Vanilla Panna Cotta", price: "85,-", desc: "Silkeblød panna cotta · Karamelliseret pære · Syltede bær", descEn: "Silky panna cotta · Caramelised pear · Berry compote" },
+                    { da: "Chokolade Fondant", en: "Chocolate Fondant", price: "95,-", desc: "Lun chokoladefondant med blød chokoladekerne · Vaniljeis · Syltede bær · Crumble", descEn: "Warm chocolate fondant with a molten centre · Vanilla ice cream · Berry compote · Crumble" },
                   ].map((item) => (
                     <div key={item.da} className="py-5 flex gap-4 justify-between">
                       <div className="flex-1">

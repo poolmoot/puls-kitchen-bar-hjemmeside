@@ -112,12 +112,12 @@ export default function Navigation() {
           <nav className="container-max !pl-4 xl:!pl-6 relative flex items-center h-[72px]">
 
             {/* Left — nav links */}
-            <div className="flex items-center gap-6">
+            <div className="flex items-center gap-4 xl:gap-6">
               {navLinks.map((l) => (
                 <Link
                   key={l.href}
                   href={l.href}
-                  className="text-[12px] font-semibold tracking-[0.18em] uppercase text-obsidian hover:text-gold transition-colors whitespace-nowrap"
+                  className="text-[11px] xl:text-[12px] font-semibold tracking-[0.1em] xl:tracking-[0.14em] uppercase text-obsidian hover:text-gold transition-colors whitespace-nowrap"
                 >
                   {l.label}
                 </Link>
@@ -131,20 +131,20 @@ export default function Navigation() {
                 alt="PULS Kitchen & Bar"
                 width={140}
                 height={60}
-                className="h-[64px] w-auto object-contain brightness-0"
+                className="h-[44px] xl:h-[64px] w-auto object-contain brightness-0"
                 unoptimized
                 priority
               />
             </Link>
 
             {/* Right — language toggle + book */}
-            <div className="ml-auto self-stretch flex items-center gap-4 flex-shrink-0">
+            <div className="ml-auto self-stretch flex items-center gap-2 xl:gap-4 flex-shrink-0">
               <LanguageToggle />
               <Link
                 href="https://book.easytable.com/book/?id=1214a&lang=auto"
                 target="_blank"
                 rel="noopener"
-                className="btn-sage-solid self-stretch flex items-center !py-0 !px-7 !text-[15px] rounded-none"
+                className="btn-sage-solid self-stretch flex items-center !py-0 !px-4 xl:!px-7 !text-[13px] xl:!text-[15px] rounded-none"
               >
                 {t.bookTable}
               </Link>

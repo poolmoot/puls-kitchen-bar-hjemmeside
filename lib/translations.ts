@@ -204,7 +204,7 @@ export const translations = {
     menuNotes: {
       allergens: "Spørgsmål vedr. allergener kan rettes til personalet",
       fullWineList: "For fuld vinliste — spørg venligst din tjener",
-      happyHour: "Happy Hour tors. kl. 17–20",
+      happyHour: "Happy Hour hver torsdag kl. 17–20 · 2 ens cocktails til éns pris",
       burgerNote: "Serveres med ovnbagte timiankartofler — grove fritter +10,-",
       smørrebrødNote: "Frem til kl. 15.00",
       smørrebrødPricing: "1 stk. 85,- · 2 stk. 160,-",
@@ -418,7 +418,7 @@ export const translations = {
     menuNotes: {
       allergens: "For allergen information, please ask a member of staff",
       fullWineList: "For our full wine list — please ask your server",
-      happyHour: "Happy Hour Thu. 5–8pm",
+      happyHour: "Happy Hour every Thursday 5–8pm · two of the same cocktail for the price of one",
       burgerNote: "Served with oven-baked thyme potatoes — chunky fries +10,-",
       smørrebrødNote: "Until 15:00",
       smørrebrødPricing: "1 pc. 85,- · 2 pcs. 160,-",
