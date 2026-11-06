@@ -3,11 +3,13 @@
 import Link from "next/link";
 import Image from "next/image";
 import { motion, useScroll, useTransform, useReducedMotion } from "framer-motion";
-import { useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { translations } from "@/lib/translations";
 
-const VIDEO_SRC = "/Videos/pulshero.mp4";
+const VIDEO_DESKTOP = "/Videos/pulshero.mp4";
+// Samme video, beskåret til højformat: lige skarp på telefonen, men halvt så tung
+const VIDEO_MOBILE = "/Videos/pulshero-mobile.mp4";
 
 export default function Hero() {
   const ref = useRef<HTMLDivElement>(null);
@@ -17,6 +19,13 @@ export default function Hero() {
   const { lang } = useLanguage();
   const t = translations[lang].hero;
 
+  // Vælg video efter skærm, så telefoner ikke henter den store fil
+  const [videoSrc, setVideoSrc] = useState<string>();
+  useEffect(() => {
+    const phone = window.matchMedia("(max-width: 767px) and (orientation: portrait)").matches;
+    setVideoSrc(phone ? VIDEO_MOBILE : VIDEO_DESKTOP);
+  }, []);
+
   return (
     <div ref={ref} className="relative z-10">
 
@@ -24,7 +33,7 @@ export default function Hero() {
       <div className="relative h-[85vh] min-h-[580px] overflow-hidden bg-obsidian rounded-b-[2rem] md:rounded-b-[3rem]">
         <motion.div style={{ y }} className="absolute inset-0">
           <video
-            src={VIDEO_SRC}
+            src={videoSrc}
             autoPlay
             muted
             loop
