@@ -16,7 +16,7 @@ const drinks = [
 ];
 
 const mainDishes = [
-  { da: "Ribeye Steak",       price: "345,-", desc: "Ribeye 300g, sprøde fritter, bearnaise", descEn: "Ribeye 300g, crispy fries, béarnaise" },
+  { da: "Ribeye Steak",       price: "345,-", desc: "Kornfodret kødkvæg fra Uruguay, sprøde fritter & bearnaise", descEn: "Corn-fed beef from Uruguay, crispy fries & béarnaise" },
   { da: "Pasta Trøffel",      price: "195,-", desc: "Linguine, grillet kylling, svampe, trøffel, cremet sauce", descEn: "Linguine, grilled chicken, mushrooms, truffle, creamy sauce" },
   { da: "Puls Burger",        price: "180,-", desc: "Flammegrillet oksekød, bacon, brioche bolle, spæd salat, cheddar, løg, tomat, agurk, fritter, dijonnaise", descEn: "Flame-grilled beef, bacon, brioche bun, mixed leaves, cheddar, onion, tomato, cucumber, fries, Dijon mayo" },
   { da: "Fish N' Chips",      price: "175,-", desc: "Torsk, grove fritter, sauce tartar", descEn: "Cod, chunky fries, tartare sauce" },
@@ -54,7 +54,7 @@ export default function KoncertMenuContent() {
       <MenuBand index={2} title={en ? "Chef's Choice" : "Kokken Anbefaler"} sub={en ? undefined : "Chef's Choice"}>
         <Dish
           name="Ribeye Steak"
-          desc={en ? "Ribeye 300g, crispy fries, béarnaise" : "Ribeye 300g, sprøde fritter, bearnaise"}
+          desc={en ? "Corn-fed beef from Uruguay, crispy fries & béarnaise" : "Kornfodret kødkvæg fra Uruguay, sprøde fritter & bearnaise"}
           addon={en ? "+ Side salad 35 kr." : "+ Side salat 35 kr."}
         />
         <Dish
