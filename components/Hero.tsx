@@ -21,7 +21,7 @@ export default function Hero() {
     <div ref={ref} className="relative z-10">
 
       {/* Video — 85vh */}
-      <div className="relative h-[85vh] min-h-[580px] overflow-hidden bg-obsidian">
+      <div className="relative h-[85vh] min-h-[580px] overflow-hidden bg-obsidian rounded-b-[2rem] md:rounded-b-[3rem]">
         <motion.div style={{ y }} className="absolute inset-0">
           <video
             src={VIDEO_SRC}
