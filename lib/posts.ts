@@ -830,7 +830,7 @@ Koncert- og konferencemenuen er en særskilt menu, som restauranten kun serverer
 
 ### Hvilke retter og priser står på koncertmenuen?
 
-- Ribeye Steak, 325,-: Ribeye 300g, sprøde fritter og bearnaise.
+- Ribeye Steak, 325,-: Kornfodret kødkvæg fra Uruguay, sprøde fritter & bearnaise.
 - Pasta Trøffel, 195,-: linguine, grillet kylling, svampe, trøffel og cremet sauce.
 - Puls Burger, 180,-: flammegrillet oksekød, bacon, brioche bolle, spæd salat, cheddar, løg, tomat, agurk, fritter og dijonnaise.
 - Fish N' Chips, 175,-: torsk, grove fritter og sauce tartar.
