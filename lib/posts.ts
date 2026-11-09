@@ -1361,7 +1361,7 @@ Aftenkortet har også kød og fisk, salater, burgere og desserter. Priserne nede
 - Spicy Burger, 155 kr.: flammegrillet oksekød, brioche bolle, spæd salat, cheddar, syltede jalapeños, spicy salsa, chilimayo.
 - Kylling Burger, 155 kr.: grillet kyllingebryst, brioche bolle, spæd salat, cheddar, løg, agurk, dijonnaise.
 - Veggie Burger, 155 kr.: kikærtebøf, brioche bolle, spæd salat, tomat, agurk, dijonnaise.
-- Crème Brûlée, 75 kr.: fløjlsblød vaniljecreme, sprød sukkerskorpe, friske bær.
+- Vanilje Panna Cotta, 85 kr.: silkeblød panna cotta, karamelliseret pære, syltede bær.
 - Hvid Chokolade, 75 kr.: hvid chokolade, cream cheese, digestive, friske bær.
 - Crepe Suzette, 95 kr.: pandekager med karamel, appelsinsauce, vaniljeis, ristede mandler.
 
@@ -1530,8 +1530,8 @@ Ja. Restauranten har en koncert- og konferencemenu, som kun serveres på udvalgt
 - Puls Burger, 180 kr.: flammegrillet oksekød, bacon, brioche bolle, spæd salat, cheddar, løg, tomat, agurk, fritter, dijonnaise.
 - Fish N' Chips, 175 kr.: torsk, grove fritter, sauce tartar.
 - Chèvre Chaud Salat, 155 kr.: gedeost, grillet brød, syltede græskar, spæd salat, balsamico glace, honning ristede valnødder, friske bær.
-- Kokken Anbefaler: Ribeye Steak med sprøde fritter og bearnaise plus Crème Brûlée, samlet pris 375 kr.
-- Crème Brûlée, 75 kr.
+- Kokken Anbefaler: Ribeye Steak med sprøde fritter og bearnaise plus Vanilje Panna Cotta, samlet pris 375 kr.
+- Vanilje Panna Cotta, 85 kr.
 
 Restauranten skriver, at den altid har plads på koncertaftener, og anbefaler at booke på forhånd. Bookingsiden har en særskilt type, Koncert - Royal Arena. Grupper kan skrive til info@pulskitchen.dk. Det fulde bar- og vinkort er tilgængeligt hele aftenen.
 
