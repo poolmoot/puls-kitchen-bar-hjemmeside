@@ -85,7 +85,7 @@ const hotdrinks = [
   { name: "Cortado",         nameEn: "Cortado",          price: "35 / 40 kr." },
   { name: "Chai Latte",      nameEn: "Chai Latte",       price: "45 kr." },
   { name: "Varm Chokolade",  nameEn: "Hot Chocolate",    price: "45 kr." },
-  { name: "Te",              nameEn: "Tea",              price: "35 kr." },
+  { name: "Te",              nameEn: "Tea",              price: "35 kr.", desc: "Spørg efter udvalg", descEn: "Ask your waiter for the selection" },
   { name: "Iskaffe",         nameEn: "Iced Coffee",      price: "55 kr." },
   { name: "Irish Coffee",    nameEn: "Irish Coffee",     price: "95 kr." },
 ];
@@ -209,7 +209,7 @@ export default function DrinksMenuContent() {
       <MenuBand index={3} title={pick("Sodavand & Saft", "Soft Drinks")} sub={sub("Soft Drinks")}>
         <Dish
           name={pick("Sodavand", "Soft Drinks")}
-          desc={pick("Pepsi, Pepsi Max, Faxe Kondi, Mirinda, Redbull", "Pepsi, Pepsi Max, Faxe Kondi, Mirinda, Red Bull")}
+          desc={pick("Pepsi Cola, Pepsi Max, Faxe Kondi, Faxe Kondi 0 kal, Mirinda Appelsin, Mirinda Lemon, Redbull", "Pepsi Cola, Pepsi Max, Faxe Kondi, Faxe Kondi 0 cal, Mirinda Orange, Mirinda Lemon, Red Bull")}
           prices={[{ label: "33 cl", value: "42 kr." }, { label: "50 cl", value: "55 kr." }]}
         />
         <Dish
@@ -241,7 +241,7 @@ export default function DrinksMenuContent() {
 
       <MenuBand index={6} title={pick("Varme Drikke", "Hot Beverages")} sub="Lavazza">
         {hotdrinks.map((item) => (
-          <Dish key={item.name} name={en ? item.nameEn : item.name} prices={[{ value: item.price }]} />
+          <Dish key={item.name} name={en ? item.nameEn : item.name} desc={en ? item.descEn : item.desc} prices={[{ value: item.price }]} />
         ))}
       </MenuBand>
 
