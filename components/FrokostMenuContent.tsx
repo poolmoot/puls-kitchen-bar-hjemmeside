@@ -45,7 +45,7 @@ const categories: Category[] = [
       { da: "Ribeye", price: "325,-", desc: "Kornfodret kødkvæg fra Uruguay, sprøde fritter, bearnaise sauce", descEn: "Corn-fed beef from Uruguay, crispy fries, béarnaise sauce" },
       { da: "Ravioli", price: "155,-", desc: "Ravioli, ricotta, spinat, salvie, frisk parmesan", descEn: "Ravioli, ricotta, spinach, sage, fresh parmesan" },
       { da: "Club Sandwich", price: "155,-", desc: "Grillet kyllingebryst, spæd salat, tomat, rødløg, bacon, karry, ovnbagte timiankartofler, dijonnaise", descEn: "Grilled chicken breast, mixed leaves, tomato, red onion, bacon, curry, oven-baked thyme potatoes, Dijon mayo" },
-      { da: "Pasta Trøffel", en: "Pasta Truffle", price: "145,-", desc: "Linguine, svampe, trøffel, cremet sauce", descEn: "Linguine, mushrooms, truffle, creamy sauce", addon: "+ Grillet kyllingebryst 30,-", addonEn: "+ Grilled chicken breast 30,-" },
+      { da: "Pasta Trøffel", en: "Pasta Truffle", price: "155,-", desc: "Linguine, svampe, trøffel, cremet sauce", descEn: "Linguine, mushrooms, truffle, creamy sauce", addon: "+ Grillet kyllingebryst 30,-", addonEn: "+ Grilled chicken breast 30,-" },
       { da: "Snack Nachos", price: "115,-", desc: "Cheddarost, jalapeños, chimichurri, guacamole, creme fraiche", descEn: "Cheddar, jalapeños, chimichurri, guacamole, sour cream", addon: "+ Crispy kylling 30,-", addonEn: "+ Crispy chicken 30,-" },
     ],
   },
@@ -86,9 +86,9 @@ const categories: Category[] = [
   {
     da: "Dessert",
     items: [
-      { da: "Vanilje Panna Cotta", price: "85,-", desc: "Silkeblød panna cotta, karamelliseret pære, syltede bær", descEn: "Silky panna cotta, caramelised pear, berry compote" },
-      { da: "Panna Cotta", price: "85,-", desc: "Hvid chokolade, cream cheese, digestive, friske bær", descEn: "White chocolate, cream cheese, digestive, fresh berries" },
-      { da: "Pandekager", en: "Pancakes", price: "95,-", desc: "Pandekager med karamel, appelsinsauce, vaniljeis, ristede mandler", descEn: "Pancakes with caramel, orange sauce, vanilla ice cream, toasted almonds" },
+      { da: "Crème Brûlée", price: "85,-", desc: "Fløjlsblød vaniljecreme, sprød sukkerskorpe, friske bær", descEn: "Silky vanilla custard, crisp caramelised sugar crust, fresh berries" },
+      { da: "Vanilje Panna Cotta", en: "Vanilla Panna Cotta", price: "85,-", desc: "Silkeblød panna cotta, karamelliseret pære, syltede bær", descEn: "Silky panna cotta, caramelised pear, berry compote" },
+      { da: "Chokolade Fondant", en: "Chocolate Fondant", price: "95,-", desc: "Lun chokoladefondant med blød chokoladekerne, vaniljeis, syltede bær, crumble", descEn: "Warm chocolate fondant with a molten centre, vanilla ice cream, berry compote, crumble" },
     ],
   },
 ];

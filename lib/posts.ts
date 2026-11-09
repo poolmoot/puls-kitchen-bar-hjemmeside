@@ -79,7 +79,7 @@ Aftenkortet gælder fra kl. 16.00. Her finder du blandt andet Ribeye med pommes 
 
 ### 4. Slut af med dessert.
 
-På dessertkortet står Vanilje Panna Cotta (85 kr.), som restauranten beskriver som silkeblød panna cotta med karamelliseret pære og syltede bær, White Chocolate (75 kr.) og Crêpe Suzette (95 kr.).
+På dessertkortet står Crème Brûlée (85 kr.), som restauranten beskriver som vaniljecreme med sprød sukkerskorpe og friske bær, Vanilje Panna Cotta (85 kr.) med karamelliseret pære og syltede bær og Chokolade Fondant (95 kr.).
 
 ### 5. Se, hvad baren byder på.
 
@@ -820,7 +820,7 @@ Aftenkortet har også pasta og pizza. Pasta Trøffel koster 165,- (linguine, sva
 - Kylling Burger, 155,-: grillet kyllingebryst, brioche bolle, spæd salat, cheddar, løg, agurk og dijonnaise.
 - Veggie Burger, 155,-: kikærtebøf, brioche bolle, spæd salat, tomat, agurk og dijonnaise.
 
-Burgerne serveres med ovnbagte timiankartofler, og grove fritter koster 10,- ekstra. Bacon kan tilføjes til tre af burgerne for 15,-. Til desserten har menuen Vanilje Panna Cotta med silkeblød panna cotta, karamelliseret pære og syltede bær til 85,-, Hvid Chokolade med hvid chokolade, cream cheese, digestive og friske bær til 75,- og Crepe Suzette med pandekager, karamel, appelsinsauce, vaniljeis og ristede mandler til 95,-.
+Burgerne serveres med ovnbagte timiankartofler, og grove fritter koster 10,- ekstra. Bacon kan tilføjes til tre af burgerne for 15,-. Til desserten har menuen Crème Brûlée med fløjlsblød vaniljecreme, sprød sukkerskorpe og friske bær til 85,-, Vanilje Panna Cotta med silkeblød panna cotta, karamelliseret pære og syltede bær til 85,- og Chokolade Fondant med lun chokoladefondant, vaniljeis, syltede bær og crumble til 95,-.
 
 Om dagen har PULS frokostkort, som serveres mandag til fredag fra kl. 11.00 og lørdag og søndag fra kl. 10.00, alle dage til kl. 16.00. Her står blandt andet smørrebrød (1 stk. 85,- eller 2 stk. 160,-, frem til kl. 15.00) med rødspætte, avocado, lakse rilette, hønsesalat, roast beef, kartoffelmad og æg og rejer, samt klassikere som Ribeye 275,-, Club Sandwich 145,- og Fish N' Chips 155,-.
 
@@ -1361,9 +1361,9 @@ Aftenkortet har også kød og fisk, salater, burgere og desserter. Priserne nede
 - Spicy Burger, 155 kr.: flammegrillet oksekød, brioche bolle, spæd salat, cheddar, syltede jalapeños, spicy salsa, chilimayo.
 - Kylling Burger, 155 kr.: grillet kyllingebryst, brioche bolle, spæd salat, cheddar, løg, agurk, dijonnaise.
 - Veggie Burger, 155 kr.: kikærtebøf, brioche bolle, spæd salat, tomat, agurk, dijonnaise.
+- Crème Brûlée, 85 kr.: fløjlsblød vaniljecreme, sprød sukkerskorpe, friske bær.
 - Vanilje Panna Cotta, 85 kr.: silkeblød panna cotta, karamelliseret pære, syltede bær.
-- Hvid Chokolade, 75 kr.: hvid chokolade, cream cheese, digestive, friske bær.
-- Crepe Suzette, 95 kr.: pandekager med karamel, appelsinsauce, vaniljeis, ristede mandler.
+- Chokolade Fondant, 95 kr.: lun chokoladefondant med blød chokoladekerne, vaniljeis, syltede bær, crumble.
 
 Burgerne serveres med ovnbagte timiankartofler. Vil du hellere have grove fritter, koster det 10 kr. ekstra, og bacon koster 15 kr. ekstra. Til dem, der ønsker noget uden kød, har kortet Veggie Burger med kikærtebøf, og restauranten tilbyder altid vegetariske alternativer. Spørgsmål om allergener kan du rette til personalet.
 
