@@ -213,7 +213,7 @@ export default function BrunchPage() {
                     { da: "Ribeye", price: "325,-", desc: "Kornfodret kødkvæg fra Uruguay · Sprøde fritter · Bearnaise sauce", descEn: "Grain-fed beef from Uruguay · Crispy fries · Bearnaise sauce" },
                     { da: "Ravioli", price: "155,-", desc: "Ravioli · Ricotta · Spinat · Salvie · Frisk parmesan", descEn: "Ravioli · Ricotta · Spinach · Sage · Fresh parmesan" },
                     { da: "Club Sandwich", price: "155,-", desc: "Grillet kyllingebryst · Spæd salat · Tomat · Rødløg · Bacon · Karry · Ovnbagte timiankartofler · Dijonnaise", descEn: "Grilled chicken breast · Baby salad · Tomato · Red onion · Bacon · Curry · Oven baked thyme potatoes · Dijonnaise" },
-                    { da: "Pasta Trøffel", en: "Pasta Truffle", price: "155,-", desc: "Linguine · Svampe · Trøffel · Cremet sauce", descEn: "Linguine · Mushrooms · Truffle · Creamy sauce", addon: "+ Grillet kyllingebryst 30,-" },
+                    { da: "Pasta Trøffel", en: "Pasta Truffle", price: "145,-", desc: "Linguine · Svampe · Trøffel · Cremet sauce", descEn: "Linguine · Mushrooms · Truffle · Creamy sauce", addon: "+ Grillet kyllingebryst 30,-" },
                     { da: "Snack Nachos", price: "115,-", desc: "Cheddarost · Jalapeños · Chimichurri · Guacamole · Creme fraiche", descEn: "Cheddar cheese · Jalapeños · Chimichurri · Guacamole · Sour cream", addon: "+ Crispy kylling 30,-" },
                   ].map((item) => (
                     <div key={item.da} className="py-5 flex gap-4 justify-between">
@@ -332,9 +332,9 @@ export default function BrunchPage() {
                 <h3 className="font-sans font-semibold text-xs tracking-[0.22em] uppercase text-forest mb-6">Dessert</h3>
                 <div className="divide-y divide-border-col">
                   {[
-                    { da: "Crème Brûlée", price: "85,-", desc: "Fløjlsblød vaniljecreme · Sprød sukkerskorpe · Friske bær", descEn: "Soft vanilla cream · Crispy sugar crust · Fresh berries" },
-                    { da: "Vanilje Panna Cotta", en: "Vanilla Panna Cotta", price: "85,-", desc: "Silkeblød panna cotta · Karamelliseret pære · Syltede bær", descEn: "Silky panna cotta · Caramelised pear · Berry compote" },
-                    { da: "Chokolade Fondant", en: "Chocolate Fondant", price: "95,-", desc: "Lun chokoladefondant med blød chokoladekerne · Vaniljeis · Syltede bær · Crumble", descEn: "Warm chocolate fondant with a molten centre · Vanilla ice cream · Berry compote · Crumble" },
+                    { da: "Vanilje Panna Cotta", price: "85,-", desc: "Silkeblød panna cotta · Karamelliseret pære · Syltede bær", descEn: "Silky panna cotta · Caramelised pear · Berry compote" },
+                    { da: "Panna Cotta", price: "85,-", desc: "Hvid chokolade · Cream cheese · Digestive · Friske bær", descEn: "White chocolate · Cream cheese · Digestive · Fresh berries" },
+                    { da: "Pandekager", en: "Pancakes", price: "95,-", desc: "Pandekager med karamel · Appelsinsauce · Vaniljeis · Ristede mandler", descEn: "Pancakes with caramel · Orange sauce · Vanilla ice cream · Toasted almonds" },
                   ].map((item) => (
                     <div key={item.da} className="py-5 flex gap-4 justify-between">
                       <div className="flex-1">

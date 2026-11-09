@@ -79,7 +79,7 @@ Aftenkortet gælder fra kl. 16.00. Her finder du blandt andet Ribeye med pommes 
 
 ### 4. Slut af med dessert.
 
-På dessertkortet står Crème Brûlée (75 kr.), som restauranten beskriver som vaniljecreme med sprød sukkerskorpe og friske bær, White Chocolate (75 kr.) og Crêpe Suzette (95 kr.).
+På dessertkortet står Vanilje Panna Cotta (85 kr.), som restauranten beskriver som silkeblød panna cotta med karamelliseret pære og syltede bær, White Chocolate (75 kr.) og Crêpe Suzette (95 kr.).
 
 ### 5. Se, hvad baren byder på.
 
@@ -175,7 +175,7 @@ Restauranten har happy hour om torsdagen, en koncert- og konferencemenu på udva
 - Gavekort, hvor du selv vælger beløbet.
 - Skræddersyede menuer til private arrangementer.
 
-Koncert- og konferencemenuen indeholder blandt andet Ribeye Steak (325 kr.) og Fish N' Chips (175 kr.). Under "Kokken Anbefaler" står en Ribeye Steak med Crème Brûlée til en samlet pris på 375 kr. Restauranten anbefaler at møde op 1,5-2 timer før koncerten og at booke på forhånd.
+Koncert- og konferencemenuen indeholder blandt andet Ribeye Steak (325 kr.) og Fish N' Chips (175 kr.). Under "Kokken Anbefaler" står en Ribeye Steak med Vanilje Panna Cotta til en samlet pris på 375 kr. Restauranten anbefaler at møde op 1,5-2 timer før koncerten og at booke på forhånd.
 
 Gavekortet købes på hjemmesiden og leveres digitalt på mail, enten direkte til modtageren eller til dig selv. Du vælger selv beløbet, og ifølge siden har kortet ingen udløbsdato og kan bruges til mad og drikke hos PULS.
 
@@ -820,7 +820,7 @@ Aftenkortet har også pasta og pizza. Pasta Trøffel koster 165,- (linguine, sva
 - Kylling Burger, 155,-: grillet kyllingebryst, brioche bolle, spæd salat, cheddar, løg, agurk og dijonnaise.
 - Veggie Burger, 155,-: kikærtebøf, brioche bolle, spæd salat, tomat, agurk og dijonnaise.
 
-Burgerne serveres med ovnbagte timiankartofler, og grove fritter koster 10,- ekstra. Bacon kan tilføjes til tre af burgerne for 15,-. Til desserten har menuen Crème Brûlée med fløjlsblød vaniljecreme, sprød sukkerskorpe og friske bær til 75,-, Hvid Chokolade med hvid chokolade, cream cheese, digestive og friske bær til 75,- og Crepe Suzette med pandekager, karamel, appelsinsauce, vaniljeis og ristede mandler til 95,-.
+Burgerne serveres med ovnbagte timiankartofler, og grove fritter koster 10,- ekstra. Bacon kan tilføjes til tre af burgerne for 15,-. Til desserten har menuen Vanilje Panna Cotta med silkeblød panna cotta, karamelliseret pære og syltede bær til 85,-, Hvid Chokolade med hvid chokolade, cream cheese, digestive og friske bær til 75,- og Crepe Suzette med pandekager, karamel, appelsinsauce, vaniljeis og ristede mandler til 95,-.
 
 Om dagen har PULS frokostkort, som serveres mandag til fredag fra kl. 11.00 og lørdag og søndag fra kl. 10.00, alle dage til kl. 16.00. Her står blandt andet smørrebrød (1 stk. 85,- eller 2 stk. 160,-, frem til kl. 15.00) med rødspætte, avocado, lakse rilette, hønsesalat, roast beef, kartoffelmad og æg og rejer, samt klassikere som Ribeye 275,-, Club Sandwich 145,- og Fish N' Chips 155,-.
 
@@ -835,8 +835,8 @@ Koncert- og konferencemenuen er en særskilt menu, som restauranten kun serverer
 - Puls Burger, 180,-: flammegrillet oksekød, bacon, brioche bolle, spæd salat, cheddar, løg, tomat, agurk, fritter og dijonnaise.
 - Fish N' Chips, 175,-: torsk, grove fritter og sauce tartar.
 - Chèvre Chaud Salat, 155,-: gedeost, grillet brød, syltede græskar, spæd salat, balsamico glace, honning ristede valnødder og friske bær.
-- Kokken Anbefaler: Ribeye Steak med sprøde fritter og bearnaise samt Crème Brûlée, samlet pris 375,-. Side salat kan tilføjes for 35,-.
-- Crème Brûlée, 75,-, og Sprøde Fritter m. Dip, 55,-.
+- Kokken Anbefaler: Ribeye Steak med sprøde fritter og bearnaise samt Vanilje Panna Cotta, samlet pris 375,-. Side salat kan tilføjes for 35,-.
+- Vanilje Panna Cotta, 85,-, og Sprøde Fritter m. Dip, 55,-.
 
 Koncertmenuen åbner med det samme afsnit som aftenkortet, Start Aftenen med et Glas, så man kan begynde med en drink. På koncertsiden skriver PULS: "Vi tilbyder altid vegetariske alternativer." Samme sted står der: "Fortæl os gerne om eventuelle allergier ved booking."
 

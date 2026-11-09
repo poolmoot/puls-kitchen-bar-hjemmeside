@@ -24,7 +24,7 @@ const mainDishes = [
 ];
 
 const desserts = [
-  { da: "Crème Brûlée", price: "85,-", desc: "Fløjlsblød vaniljecreme, sprød sukkerskorpe, friske bær", descEn: "Silky vanilla custard, crisp caramelised sugar crust, fresh berries" },
+  { da: "Vanilje Panna Cotta", price: "85,-", desc: "Silkeblød panna cotta, karamelliseret pære, syltede bær", descEn: "Silky panna cotta, caramelised pear, berry compote" },
 ];
 
 export default function KoncertMenuContent() {
@@ -58,8 +58,8 @@ export default function KoncertMenuContent() {
           addon={en ? "+ Side salad 35 kr." : "+ Side salat 35 kr."}
         />
         <Dish
-          name="Crème Brûlée"
-          desc={en ? "Silky vanilla custard, crisp caramelised sugar crust, fresh berries" : "Fløjlsblød vaniljecreme, sprød sukkerskorpe, friske bær"}
+          name="Vanilje Panna Cotta"
+          desc={en ? "Silky panna cotta, caramelised pear, berry compote" : "Silkeblød panna cotta, karamelliseret pære, syltede bær"}
         />
         <Dish prices={[{ label: t.totalPrice, value: "395 kr." }]} />
       </MenuBand>

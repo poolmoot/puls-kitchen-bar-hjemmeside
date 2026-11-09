@@ -27,10 +27,10 @@ const categories: Category[] = [
     da: "Små Retter", en: "Small Dishes",
     items: [
       { da: "Carpaccio", price: "135,-", desc: "Tyndskåret kalveinderlår, olivenolie, rucola, pinjekerner, parmesan", descEn: "Thinly sliced veal topside, olive oil, rocket, pine nuts, parmesan" },
-      { da: "Charcuterie", price: "135,-", desc: "Lufttørret skinke, chorizo, ost, kompot, brød", descEn: "Air-dried ham, chorizo, cheese, compote, bread" },
+      { da: "Charcuterie", price: "125,-", desc: "Lufttørret skinke, chorizo, ost, kompot, brød", descEn: "Air-dried ham, chorizo, cheese, compote, bread" },
       { da: "Burrata", price: "125,-", desc: "Cherrytomater, rucola, pesto, balsamico, basilikum", descEn: "Cherry tomatoes, rocket, pesto, balsamic, basil" },
       { da: "Rejecocktail", en: "Shrimp Cocktail", price: "125,-", desc: "Sprød salat, håndpillede rejer, avocado, caviart, thousand island dressing, citron, dild", descEn: "Crisp salad, hand-peeled shrimp, avocado, caviar, thousand island dressing, lemon, dill" },
-      { da: "Snack Nachos", price: "115,-", desc: "Cheddarost, jalapeños, chimichurri, guacamole, creme fraiche", descEn: "Cheddar, jalapeños, chimichurri, guacamole, sour cream", addon: "+ Crispy kylling 30,-", addonEn: "+ Crispy chicken 30,-" },
+      { da: "Snack Nachos", price: "95,-", desc: "Cheddarost, jalapeños, chimichurri, guacamole, creme fraiche", descEn: "Cheddar, jalapeños, chimichurri, guacamole, sour cream", addon: "+ Crispy kylling 30,-", addonEn: "+ Crispy chicken 30,-" },
       { da: "Bruschetta Al Pomodoro", price: "85,-", desc: "Rustikt brød, tomat, hvidløg, basilikum, olivenolie", descEn: "Rustic bread, tomato, garlic, basil, olive oil", addon: "+ Håndpillede rejer 25,-", addonEn: "+ Hand-peeled shrimp 25,-" },
       { da: "Gratineret Gedeost", en: "Gratinated Goat Cheese", price: "75,-", desc: "Valnød, honning, ristet brød chips", descEn: "Walnut, honey, toasted bread chips" },
     ],
@@ -54,9 +54,9 @@ const categories: Category[] = [
   {
     da: "Pizza",
     items: [
-      { da: "Prosciutto", price: "155,-", desc: "Tomat, frisk mozzarella, lufttørret skinke, rucola, pesto", descEn: "Tomato, fresh mozzarella, air-dried ham, rocket, pesto" },
-      { da: "Piccante", price: "145,-", desc: "Tomat, frisk mozzarella, ventricina (stærk krydret pølse)", descEn: "Tomato, fresh mozzarella, ventricina (spicy cured sausage)" },
-      { da: "Vitello", price: "145,-", desc: "Tomat, frisk mozzarella, kalvekød, blue cheese, tuncreme, kapers", descEn: "Tomato, fresh mozzarella, veal, blue cheese, tuna cream, capers" },
+      { da: "Prosciutto", price: "145,-", desc: "Tomat, frisk mozzarella, lufttørret skinke, rucola, pesto", descEn: "Tomato, fresh mozzarella, air-dried ham, rocket, pesto" },
+      { da: "Piccante", price: "135,-", desc: "Tomat, frisk mozzarella, ventricina (stærk krydret pølse)", descEn: "Tomato, fresh mozzarella, ventricina (spicy cured sausage)" },
+      { da: "Vitello", price: "135,-", desc: "Tomat, frisk mozzarella, kalvekød, blue cheese, tuncreme, kapers", descEn: "Tomato, fresh mozzarella, veal, blue cheese, tuna cream, capers" },
       { da: "Pepperoni", price: "135,-", desc: "Tomat, frisk mozzarella, pepperoni", descEn: "Tomato, fresh mozzarella, pepperoni" },
       { da: "Bianca", price: "135,-", desc: "Frisk mozzarella, kartoffel, rosmarin, hvidløg, trøffelolie", descEn: "Fresh mozzarella, potato, rosemary, garlic, truffle oil" },
       { da: "Rucola", price: "135,-", desc: "Tomat, frisk mozzarella, rucola, cherrytomat, parmesan", descEn: "Tomato, fresh mozzarella, rocket, cherry tomato, parmesan" },
@@ -66,8 +66,8 @@ const categories: Category[] = [
   {
     da: "Salater", en: "Salads",
     items: [
-      { da: "Chèvre Chaud", price: "165,-", desc: "Gedeost, grillet brød, syltede græskar, salat, balsamico glace, honning ristede valnødder, blåbær", descEn: "Goat's cheese, grilled bread, pickled squash, salad, balsamic glaze, honey roasted walnuts, blueberries" },
-      { da: "Cæsar", en: "Caesar", price: "165,-", desc: "Klassisk cæsar, crispy kylling, papadums", descEn: "Classic Caesar, crispy chicken, papadums" },
+      { da: "Chèvre Chaud", price: "155,-", desc: "Gedeost, grillet brød, syltede græskar, salat, balsamico glace, honning ristede valnødder, blåbær", descEn: "Goat's cheese, grilled bread, pickled squash, salad, balsamic glaze, honey roasted walnuts, blueberries" },
+      { da: "Cæsar", en: "Caesar", price: "155,-", desc: "Klassisk cæsar, crispy kylling, papadums", descEn: "Classic Caesar, crispy chicken, papadums" },
     ],
   },
   {
@@ -93,9 +93,9 @@ const categories: Category[] = [
   {
     da: "Dessert",
     items: [
-      { da: "Crème Brûlée", price: "85,-", desc: "Fløjlsblød vaniljecreme, sprød sukkerskorpe, friske bær", descEn: "Silky vanilla custard, crisp caramelised sugar crust, fresh berries" },
-      { da: "Vanilje Panna Cotta", en: "Vanilla Panna Cotta", price: "85,-", desc: "Silkeblød panna cotta, karamelliseret pære, syltede bær", descEn: "Silky panna cotta, caramelised pear, berry compote" },
-      { da: "Chokolade Fondant", en: "Chocolate Fondant", price: "95,-", desc: "Lun chokoladefondant med blød chokoladekerne, vaniljeis, syltede bær, crumble", descEn: "Warm chocolate fondant with a molten centre, vanilla ice cream, berry compote, crumble" },
+      { da: "Vanilje Panna Cotta", price: "85,-", desc: "Silkeblød panna cotta, karamelliseret pære, syltede bær", descEn: "Silky panna cotta, caramelised pear, berry compote" },
+      { da: "Panna Cotta", price: "85,-", desc: "Hvid chokolade, cream cheese, digestive, friske bær", descEn: "White chocolate, cream cheese, digestive, fresh berries" },
+      { da: "Pandekager", en: "Pancakes", price: "95,-", desc: "Pandekager med karamel, appelsinsauce, vaniljeis, ristede mandler", descEn: "Pancakes with caramel, orange sauce, vanilla ice cream, toasted almonds" },
     ],
   },
   {
