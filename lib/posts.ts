@@ -1749,6 +1749,97 @@ PULS Kitchen ligger på Arne Jacobsens Allé 9, 2300 København S, nær Fields, 
 
 Ja, baren er åben kl. 11-22 og serverer blandt andet Aperol Spritz, Limoncello Spritz, French 75, Gin & Tonic og Mojito.`
   }
+  , {
+    slug: "julefrokost-i-orestad-selskabslokale-til-30-50-eller-150-gaester",
+    title: "Julefrokost i Ørestad: selskabslokale til 30, 50 eller 150 gæster",
+    seoTitle: "Julefrokost i Ørestad | PULS Kitchen & Bar",
+    seoDescription:
+      "Julefrokost i Ørestad hos PULS Kitchen & Bar: lokaler til 30, 50 eller 150 gæster, skræddersyet menu, AV-udstyr og tilbud inden for 24 timer.",
+    excerpt:
+      "Hold julefrokost i Ørestad hos PULS Kitchen & Bar. Se lokalerne til 30, 50 og 150 gæster, hvad der er inkluderet, og hvordan I får et tilbud.",
+    date: "2026-11-22",
+    tags: ["julefrokost Ørestad", "selskabslokaler", "PULS Kitchen", "selskaber København"],
+    authorName: "Puls Kitchen",
+    authorTitle: "head of conent",
+    coverImage:
+      "/images/blog/julefrokost-i-orestad-selskabslokale-til-30-50-eller-150-gaester.webp",
+    coverImageAlt: "Julefrokost i Ørestad: selskabslokale til 30, 50 eller 150 gæster",
+    body: `Hos PULS Kitchen & Bar i Ørestad kan I holde julefrokost i et lille lokale til op til 30 gæster, i et stort lokale til op til 50 eller i hele restauranten til op til 150. Send dato, antal gæster og anledning til info@pulskitchen.dk, så vender PULS tilbage inden for 24 timer med et tilbud.
+
+## Hvilket selskabslokale passer til jeres julefrokost i Ørestad?
+
+Vælg efter antal gæster. PULS har [tre selskabslokaler](https://www.pulskitchen.dk/selskaber), og alle har fuldt AV-udstyr med lyd, projektor og skærm.
+
+- Lille lokale: op til 30 gæster, et intimt og afskærmet lokale.
+- Stort lokale: op til 50 gæster, med fleksibel indretning og eget serveringsteam.
+- Hele restauranten: op til 150 gæster, og I lejer PULS eksklusivt til arrangementet.
+
+## Hvad er inkluderet i en julefrokost hos PULS?
+
+PULS tager sig af maden, drikkevarerne og servicen, så lokalet er sat op og personalet er klar, når I kommer.
+
+- Skræddersyet menu fra tre retters middag til buffet, tilpasset anledning og budget.
+- Eget serveringsteam, der kun er jeres for aftenen.
+- Vin, fadøl, cocktails og alkoholfri drikke, som pakke eller løbende fra baren.
+- Fleksibel opsætning efter aftale, for eksempel reception, teater eller rundt bord.
+- God parkeringsmulighed i Ørestad direkte ved restauranten.
+
+## Hvordan planlægger I julefrokosten trin for trin?
+
+Fra idé til tilbud tager det fire trin.
+
+### 1. Find dato og antal gæster
+
+Vælg en dato og et realistisk gæstetal. Det afgør, om det lille lokale, det store lokale eller hele restauranten passer til jeres julefrokost.
+
+### 2. Vælg aftenens form
+
+Beslut, om I vil have en tre retters middag eller buffet, og hvordan bordene skal stå: reception, teater eller rundt bord.
+
+### 3. Vælg drikke og indslag
+
+Beslut, om I vil have vin, fadøl, cocktails eller alkoholfrit, som pakke eller løbende fra baren. Skal der holdes taler eller præsentationer, kan I bruge lyd, projektor og skærm.
+
+### 4. Send forespørgslen
+
+Skriv til info@pulskitchen.dk med dato, antal gæster og anledning, og nævn, at det gælder en julefrokost. PULS vender tilbage inden for 24 timer med et tilbud.
+
+## Hvor ligger julefrokosten i forhold til Fields, Royal Arena og Cabinn Metro Hotel?
+
+PULS ligger ved vandet i Ørestad på Arne Jacobsens Allé 9, 2300 København S. Der er 5 minutter til Metro Ørestad, 500 meter til Royal Arena og 600 meter til Bella Centret. Fields og Cabinn Metro Hotel ligger i gåafstand.
+
+## Hvilke andre anledninger bruges lokalerne til?
+
+Lokalerne bruges også til konfirmationer, fødselsdage, firmaarrangementer, barnedåb, mindehøjtider, teambuilding og private middage. PULS skriver, at de mange gange har arrangeret selskaber for familier, vennegrupper og virksomheder.
+
+### Hvad vil I vide om julefrokost hos PULS?
+
+### Hvor mange gæster kan der være til julefrokost?
+
+Det lille lokale rummer op til 30 gæster, det store op til 50, og hele restauranten kan lejes til op til 150 gæster.
+
+### Kan menuen til julefrokosten tilpasses?
+
+Ja, menuen skræddersys fra en tre retters middag til buffet, tilpasset anledning og budget.
+
+### Er der AV-udstyr i selskabslokalerne?
+
+Ja, lokalerne har fuldt AV-udstyr med lyd, projektor og skærm, klar til taler og præsentationer.
+
+### Hvilke oplysninger skal vi sende for at få et tilbud?
+
+Send dato, antal gæster og anledning til info@pulskitchen.dk. Der kommer et tilbud inden for 24 timer.
+
+### Kan vi få både alkoholiske og alkoholfri drikke til selskabet?
+
+Ja, der er vin, fadøl, cocktails og alkoholfri drikke, enten som pakke eller løbende fra baren.
+
+### Er der parkering ved restauranten?
+
+Ja, der er god parkeringsmulighed i Ørestad direkte ved restauranten. Metro Ørestad ligger 5 minutter derfra.
+
+Læs også: [Komponér din egenbrunch.](https://www.pulskitchen.dk/brunch)`
+  }
 ];
 
 export function getPostBySlug(slug: string): Post | undefined {
